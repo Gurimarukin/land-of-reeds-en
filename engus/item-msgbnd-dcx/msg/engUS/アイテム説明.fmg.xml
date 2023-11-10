@@ -34,7 +34,7 @@ of the Dragon's Heritage.
 
 Used at the cost of Resurrective Power.
 
-Repeated deaths may cause the power 
+Repeated deaths may cause the power
 of the dragon's blood to stagnate.
 
 Stagnation is likely to have consequences.</text>
@@ -199,7 +199,7 @@ A technique conceived by none other than the old hand swordmaster, Isshin.</text
 <text id="2469">%null%</text>
 <text id="2470">A Latent Skill that increases the healing effect of recovery items.
 
-Medicinal knowledge is vital for a shinobi's survival.  Receiving wounds in battle is inevitable.  
+Medicinal knowledge is vital for a shinobi's survival.  Receiving wounds in battle is inevitable.
 
 The only way to learn such techniques is to be gravely injured time and time again by worthy opponents.</text>
 <text id="2471">A Latent Skill that increases the healing effect of recovery items.
@@ -238,14 +238,14 @@ Experiencing battles with stronger opponents further deepens this moment of exha
 <text id="2487">%null%</text>
 <text id="2488">%null%</text>
 <text id="2489">%null%</text>
-<text id="2490">Combat Art that builds momentum in a 
-series of leaping slashes, and can 
-transition into mid-air prosthetic attacks. 
-Costs Spirit Emblems to use. 
+<text id="2490">Combat Art that builds momentum in a
+series of leaping slashes, and can
+transition into mid-air prosthetic attacks.
+Costs Spirit Emblems to use.
 
 A secret art of the Way of Tomoe, which
 she performed in her master's honor.
-The sakura blossoms will soon fall. 
+The sakura blossoms will soon fall.
 If you cannot return home, at least allow
 this dance to console you.</text>
 <text id="2491">%null%</text>
@@ -314,12 +314,12 @@ A reinforced core is sure to make a shinobi's fangs even sharper.
 <text id="2920">A book of secrets that details a variety of techniques employed by Shinobi.
 Grants the ability to learn "Shinobi Style" Skills.
 
-Within this text are the innermost secrets of the Shinobi Arts, such as attacks performed in the air and hiding one's body to avoid detection.  Such moves could never be practiced by samurai.  
+Within this text are the innermost secrets of the Shinobi Arts, such as attacks performed in the air and hiding one's body to avoid detection.  Such moves could never be practiced by samurai.
 </text>
 <text id="2921">A book of secrets that details a variety of techniques for use with Shinobi Prosthetic.
 Grants the ability to learn "Prosthetic Style" Skills.
 
-Written by a man who abandoned the path of the Shinobi, but could not bring himself to discard his painstaking research.  
+Written by a man who abandoned the path of the Shinobi, but could not bring himself to discard his painstaking research.
 He never expected to pass these on to anyone else.</text>
 <text id="2922">A compendium of the Ashina Sword Style.
 Allows one to learn "Ashina Style" Skills.
@@ -362,7 +362,7 @@ would also serve as a battle charm.</text>
 <text id="3040">A secret medicine that fully restores Vitality and cures all status abnormalities.
 
 One small part of Ashina is exceedingly old.  The ancient soil, rocks, and water that pervaded the land are said to have attracted the attention of the gods.
-The doctor Dogen studied the plants in 
+The doctor Dogen studied the plants in
 this ancient place, resulting in the recipe for this special medicine.</text>
 <text id="3041">%null%</text>
 <text id="3042">%null%</text>
@@ -432,10 +432,10 @@ This one is sure to taste just as good.</text>
 
 Slowly grants medium Vitality recovery and constant Posture recovery over time.
 
-Wolf senses it was crafted with feelings of 
+Wolf senses it was crafted with feelings of
 resolve and a reluctance to part ways.
 
-Such deep emotions tend to be mumbled 
+Such deep emotions tend to be mumbled
 to oneself rather than shared.</text>
 <text id="3062">%null%</text>
 <text id="3063">%null%</text>
@@ -448,7 +448,7 @@ to oneself rather than shared.</text>
 <text id="3070">A red, ripe persimmon, ready to eat.
 For a time, allows one to recover Posture even when attacking or taking damage.
 
-Ashina persimmons are particularly nutritious, perhaps because the trees grow in such pure water.  Persimmons become blood, blood becomes rice.  
+Ashina persimmons are particularly nutritious, perhaps because the trees grow in such pure water.  Persimmons become blood, blood becomes rice.
 
 This may be of help to one short of blood.</text>
 <text id="3071">A conspicuously red persimmon at the peak of its ripeness, commonly called a "Taro persimmon".
@@ -484,7 +484,7 @@ The cold sweetens the rice.
 Rice is indeed precious.
 The flavour grows richer and richer,
 raising one's spirits higher than ever.</text>
-<text id="3200">A powerful antidote concocted by the 
+<text id="3200">A powerful antidote concocted by the
 Sunken Valley clan.
 
 Heals status abnormality "Poison", and temporarily  increases Poison resistance.
@@ -507,7 +507,7 @@ When fire is used on the battlefield,
 Dousing Powder is crucial for survival.</text>
 <text id="3211">Powdered medicine for treating burns,
 carried by Interior Ministry guards.
-Slightly more effective than regular dousing powder, it heals "Burn" status, reduces Burn buildup, and reduces damage from incoming Burn attacks.  
+Slightly more effective than regular dousing powder, it heals "Burn" status, reduces Burn buildup, and reduces damage from incoming Burn attacks.
 The Ministry feared Ashina, her eyes
 bloodshot with the waters of Rejuvenation.
 This powder acted as a ward for when the
@@ -542,12 +542,12 @@ If seized with fear, cover your rear.</text>
 Greatly reduces the amount of damage
 received from lightning attacks, as
 well as the "Shock" status abnormality.
-Lightning is a force of the gods.  Eels, while small, are relatives of dragons.  
+Lightning is a force of the gods.  Eels, while small, are relatives of dragons.
 Even a god's force can be suppressed, though probably not for long.  </text>
 <text id="3250">Powdered medicine with poisonous effects used through the ages by Ashina shinobi.
 
 A weak "Poison" status abnormality is inflicted upon consumption.
-By inflicting a weak poison on oneself, all other forms of poison become ineffective.  Some shinobi also use this medicine for a specific technique.  
+By inflicting a weak poison on oneself, all other forms of poison become ineffective.  Some shinobi also use this medicine for a specific technique.
 Poison is said to expand the mind.</text>
 <text id="3290">Secret shinobi drug, blue in color.
 
@@ -588,19 +588,19 @@ Resurrection is not limited after use.</text>
 <text id="3299">%null%</text>
 <text id="3300">A curved, moss-covered gourd filled with
 medicinal water.  Refills upon rest.
-While it does not heal "Poison" status, 
-it reduces Poison buildup, and increases 
-Poison resistance.  
-This gourd was made out of necessity by 
+While it does not heal "Poison" status,
+it reduces Poison buildup, and increases
+Poison resistance.
+This gourd was made out of necessity by
 those that made poisonous lands their home.
 It's said if you live there long enough,
 eventually poison won't affect you at all.</text>
 <text id="3301">A curved, moss-covered gourd filled with
 medicinal water.  Refills upon rest.
-While it does not heal "Poison" status, 
-it reduces Poison buildup, and increases 
-Poison resistance.  
-This gourd was made out of necessity by 
+While it does not heal "Poison" status,
+it reduces Poison buildup, and increases
+Poison resistance.
+This gourd was made out of necessity by
 those that made poisonous lands their home.
 It's said if you live there long enough,
 eventually poison won't affect you at all.</text>
@@ -629,7 +629,7 @@ Reduces Burn buildup, and slightly increases Burn resistance.  It cannot heal th
 <text id="3318">%null%</text>
 <text id="3319">%null%</text>
 <text id="3320">A curved, mottled purple gourd filled with medicinal water.  Refills upon rest.
-Reduces "Terror" status buildup, and 
+Reduces "Terror" status buildup, and
 increases Terror resistance.
 
 This gourd's twisted form was formed with
@@ -638,7 +638,7 @@ and other forlorn places of death.
 It follows then that drinking its waters can help prevent the onset of Terror.
 </text>
 <text id="3321">A curved, mottled purple gourd filled with medicinal water.  Refills upon rest.
-Reduces "Terror" status buildup, and 
+Reduces "Terror" status buildup, and
 increases Terror resistance.
 
 This gourd's twisted form was formed with
@@ -684,8 +684,8 @@ nobles had his sibling been at his side...</text>
 <text id="3367">%null%</text>
 <text id="3368">%null%</text>
 <text id="3369">%null%</text>
-<text id="3370">Fallen, headless spirit of Ungo that 
-reduces Vitality damage taken from 
+<text id="3370">Fallen, headless spirit of Ungo that
+reduces Vitality damage taken from
 physical attacks.
 Consume Spirit Emblems to use repeatedly.
 Headless are the ruined form of corrupted
@@ -781,7 +781,7 @@ donations towards costly undying research.</text>
 <text id="3419">%null%</text>
 <text id="3420">Sugar candy made in Senpou Temple,
 sustaining Ungo's blessing.
-Temporarily reduces Vitality damage 
+Temporarily reduces Vitality damage
 taken from physical attacks.
 Bite the candy and take the Ungo stance
 to impart its inhuman benediction.
@@ -848,7 +848,7 @@ in its touch, allowing attacks to
 connect with apparition-type enemies.</text>
 <text id="3500">A piece of pottery that breaks with a satisfying crack when thrown.
 
-Throw it at an enemy to draw their attention. 
+Throw it at an enemy to draw their attention.
 
 Throwing and smashing such pieces made for a popular sport amongst Ashina boys.  Even after growing up, they remember the old games well.</text>
 <text id="3501">%null%</text>
@@ -877,8 +877,8 @@ When the jar breaks,
 the oil covers everything nearby.
 
 Enemies doused in oil are easily
-set alight, causing them to take additional Vitality damage from fire attacks and 
-making them more vulnerable to 
+set alight, causing them to take additional Vitality damage from fire attacks and
+making them more vulnerable to
 the Burn status abnormality.</text>
 <text id="3521">%null%</text>
 <text id="3522">%null%</text>
@@ -911,7 +911,7 @@ and resting at a Sculptor's Idol will replenish it.
 This rice is not edible, however.</text>
 <text id="3600">A Mibu balloon filled with fountainhead water, imbued with a blessing of wealth.
 
-If one pops the golden Mibu balloon and prays, those its water splashes upon will acquire more coin for a period of time.  
+If one pops the golden Mibu balloon and prays, those its water splashes upon will acquire more coin for a period of time.
 "Mibu" means "aquatic life", or "life born of the water".  The Ashina consider the fountainhead water itself to be worthy of worship.</text>
 <text id="3601">%null%</text>
 <text id="3602">%null%</text>
@@ -926,7 +926,7 @@ If one pops the golden Mibu balloon and prays, those its water splashes upon wil
 
 If one pops this sakura-pink balloon and prays, those its water splashes upon will acquire more Resurrective Power for a time.
 The oldest of the Mibu balloons,
-Mibu priests are known to pop them 
+Mibu priests are known to pop them
 as an offering of peace of the departed.</text>
 <text id="3611">%null%</text>
 <text id="3612">%null%</text>
@@ -1142,7 +1142,7 @@ Increases maximum Vitality and Posture.
 A prayer bead necklace befits the strong.
 
 The gun fort of Sunken Valley is
-commanded by the Snake Eyes, 
+commanded by the Snake Eyes,
 an elite force of women able to pierce
 distant targets with mighty flint cannons
 and phenomenal vision.</text>
@@ -1360,7 +1360,7 @@ and confront memories of battle to
 permanently increase Attack Power.
 
 Deep within the mind, the father stirred.
-The man Wolf confronted in memory was 
+The man Wolf confronted in memory was
 more than Owl could ever have hoped to be.</text>
 <text id="5222">The battle memory of an extraordinary foe,
 lingering in the mind of the Wolf.
@@ -1549,7 +1549,7 @@ thirst could be sated in memory.
 To face the one who cut him down...
 How the blood boils at the thought.</text>
 <text id="5500">A fragment of an old dancer's mask.
-The original must have been broken into several pieces, and this fragment appears to be the right side of the mask.  
+The original must have been broken into several pieces, and this fragment appears to be the right side of the mask.
 </text>
 <text id="5501">A fragment of an old dancer's mask.
 The original must have been broken into several pieces, and this fragment appears to be the left side of the mask.  </text>
@@ -1751,7 +1751,7 @@ tower bathed in moonlight.
 
 Even without a blade, you can reach it.
 Stay silent.  Stay vigilant."</text>
-<text id="9052">A carp that lived in the Mibu Village Pond.  
+<text id="9052">A carp that lived in the Mibu Village Pond.
 It has two red eyes.
 Carp with only eyes that are red cannot become "masters".
 Though they're considered incomplete creatures that lack the ideal number of scales, their eyes are said to be everlasting.
@@ -1875,20 +1875,20 @@ This cloudy sake is one of Isshin Ashina's favorites.  It has a rich, full-bodie
 On the other hand, it has a reputation for getting one too drunk, too quickly.</text>
 <text id="9180">This is precious bait.
 
-The texture is slimy, and something resembling horns seem to jut out of it.  
+The texture is slimy, and something resembling horns seem to jut out of it.
 Just the kind of bait the "master" loves.
 
 "Ring the bell, drop the bait."</text>
 <text id="9181">This is truly precious bait.
 
-If bait has hair, you know it's something truly special.  
+If bait has hair, you know it's something truly special.
 The Hirata noble in the pot is obsessed with thoughts of becoming a "master".
 
-"He who receives the scales of the carp becomes closer to a carp himself...  
+"He who receives the scales of the carp becomes closer to a carp himself...
 I bestow unto you my secret treasure."</text>
 <text id="9182">This is truly precious bait.
 
-If bait has hair, you know it's something truly special.  
+If bait has hair, you know it's something truly special.
 The Fountainhead Palace noble in the pot is obsessed with becoming one with the "master."
 "Present this bait to the master, the Great Carp.  Offer it earnestly, but quietly, so no one knows..."</text>
 <text id="9183">%null%</text>
@@ -1902,7 +1902,7 @@ The Fountainhead Palace noble in the pot is obsessed with becoming one with the 
 <text id="9191">%null%</text>
 <text id="9192">The persimmon-like heart of a Great Serpent.
 
-The Great Serpent is considered to be 
+The Great Serpent is considered to be
 a god of the land, and the heart is believed
 to be where one's spirit resides.
 While its shape bears similarity to a persimmon, in fact this is the red viscera
@@ -1944,7 +1944,7 @@ The rats:
 - Last seen around Ashina Castle Gate</text>
 <text id="9207">A worn and bloodstained letter from Dosaku, the surgeon in the Abandoned Dungeon:
    Required: 1 tough man
-   Preferably a strong samurai, or a young, 
+   Preferably a strong samurai, or a young,
    large soldier such as a member of
    the Taro Troop.
 
@@ -1954,8 +1954,8 @@ The rats:
 
    At the bottom of the Mibu Village pond,
    You will find a Sakura carp.
-   You will know it from its red eyes, 
-   which are said to never rot.   
+   You will know it from its red eyes,
+   which are said to never rot.
    I require those red eyes.
                                                                 -Dosaku</text>
 <text id="9209">Sacred passage on a path to enlightenment.
@@ -1983,7 +1983,7 @@ the holy dragon of the divine realm."</text>
 my blood may be shed.
 
 With my blood, the aroma will be complete,
-the divine realm will be in reach.  
+the divine realm will be in reach.
 Immortal Severance will be at hand.
 I must ask Tomoe to assist with the beheading..."
 </text>
@@ -1999,7 +1999,7 @@ rejuvenation converge in a deep pool.
 A white and deeply fragrant flower..."</text>
 <text id="9213">An old note left by the Okami clan, who sought to reach the divine realm.
 
-"A fragrant stone, enshrined in a village 
+"A fragrant stone, enshrined in a village
 within the depths of Ashina.
 One must throw oneself for it to be found.
 With this, the fountainhead fragrance is complete.
@@ -2028,7 +2028,7 @@ we found a barrel that spewed flame.
 The boys lit a roaring bonfire with it
 and made merry with the drink.
 Must have been a shinobi's tool."</text>
-<text id="9218">A note on smoke signals used by 
+<text id="9218">A note on smoke signals used by
 Ashina shinobi, the Grey Nightjars.
 
 "Pale, pink smoke signals are placed
@@ -2043,7 +2043,7 @@ Perhaps Emma knows his current whereabouts.
 
     Dear Emma,
 
-    The Ashina Castle Gate has grown loud 
+    The Ashina Castle Gate has grown loud
     with the sound of scurrying.
     The Tengu will see to the rats.
     Worry not.
@@ -2059,7 +2059,7 @@ Must be purchased to read the content.</text>
 <text id="9222">A memo detailing the whereabouts of a kodachi short sword known as Sabimaru.
 The ancient kodachi Sabimaru can be found within Ashina Castle, enshrined in the bottom floor of the keep.
 Sabimaru was wielded in wars of old,
-and is a national treasure of Ashina.  
+and is a national treasure of Ashina.
 Supposedly the blade's poisonous blue rust could drive off even the inhuman Okami warrior women.</text>
 <text id="9223">A note about apparitions in the Sunken Valley.
 
@@ -2068,9 +2068,9 @@ Must be purchased to read the content.</text>
 "Apparitions have been sighted in the
 Guardian Ape of the Sunken Valley's old den.  Angry spirits, with many faces.
 The Guardian Ape's old den can be found
-at the bottom of the Sunken Valley, not far 
+at the bottom of the Sunken Valley, not far
 from the Forest of Mist.
-Also, some reported they could hear the 
+Also, some reported they could hear the
 sound of a woman crying in the distance..."</text>
 <text id="9225">A memo describing the three-storied pagoda.
 
@@ -2097,7 +2097,7 @@ I beseech you, make offerings for the Dragon's Blood..."</text>
 <text id="9402">The key to a samurai gatehouse located in the Ashina Reservoir, not far from the well the Wolf was kept in.
 Here, Gyoubu the Demon's Broken Horn
 is respectfully guarded by Ashina samurai.
-The Broken Horn is the spear blade once wielded by Gyoubu the Demon.  It's said that no prey can escape Gyoubu's horn.  
+The Broken Horn is the spear blade once wielded by Gyoubu the Demon.  It's said that no prey can escape Gyoubu's horn.
 It pulls enemies in, and is even capable of stripping an enemy's armor.</text>
 <text id="9403">The key to the Hidden Temple in the Hirata Estate, given by the Owl.
 
@@ -2105,7 +2105,7 @@ The secret temple is located in the very back of the Hirata Estate.
 
 "Two,
 The lord is absolute.
-Defend him with your life.  
+Defend him with your life.
 If he is taken, bring him back at any cost."</text>
 <text id="9404">The key to the secret passage that leads out of Ashina Castle.
 
@@ -2114,8 +2114,8 @@ The secret passage can be found at the end of the moat in the Ashina Reservoir, 
 Kuro has escaped the castle through this passage, and the Wolf looks to join him there.</text>
 <text id="9405">The key to a shrine deep within the gun fort.
 The gate behind the shrine's idol is made to be opened.
-The Sunken Valley clan will shoot any stranger who approaches, and the Snake Eyes' guns are particularly feared.  
-This elite group of women are descendents of the ancient Okami Clan.  
+The Sunken Valley clan will shoot any stranger who approaches, and the Snake Eyes' guns are particularly feared.
+This elite group of women are descendents of the ancient Okami Clan.
 Their especially sharp eyes allow them to snipe victims at great range.</text>
 <text id="9500">Somewhere, a pained cough rings out continuously.
 
@@ -2142,7 +2142,7 @@ Owning this item reduces one's chances of receiving Unseen Aid.</text>
 The coughing and wheezing sounds of a man who is enamored with a beautiful melody.
 
 Owning this item reduces one's chances of receiving Unseen Aid.</text>
-<text id="9505">Somewhere, a pained cough rings out continuously.  
+<text id="9505">Somewhere, a pained cough rings out continuously.
 The coughing and wheezing are coming from a deeply troubled pair of researchers who are nonetheless tireless in their work.
 
 Both are coughing at once.
@@ -2220,7 +2220,7 @@ Contains stagnated blood.
 Emma can use this to find a cure for Dragonrot.</text>
 <text id="9700">A mechanical device made by the mechanical genius Dogen.
 Can be fit into the Shinobi Prosthetic to become a working Prosthetic Tool.
-While it is palm-sized, a surprising number of shuriken can fit into the Shuriken Wheel, 
+While it is palm-sized, a surprising number of shuriken can fit into the Shuriken Wheel,
 as the edges were designed for stacking.
 A fine example of what can be achieved when one matches mechanical finesse with a Shinobi's talent.</text>
 <text id="9701">A kunai used by Lady Butterfly that can be used to upgrade the Loaded Shuriken.

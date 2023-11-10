@@ -478,7 +478,7 @@ Causes a whistling sound at the target location.</text>
 <text id="10010600">&lt;?kgiconKc@44?&gt;: Stop Recording</text>
 <text id="10010700">This appears to be the escape route.
 Call the Divine Heir with the reed whistle?</text>
-<text id="10010713">Installation of this game is currently incomplete, 
+<text id="10010713">Installation of this game is currently incomplete,
 so you are unable to progress further.</text>
 <text id="10010714">%null%</text>
 <text id="10010715">%null%</text>
@@ -546,7 +546,7 @@ Press &lt;?kgiconKc@27?&gt; to open the equipment menu and equip "Arm Tools" to 
 <text id="10020008">%null%</text>
 <text id="10020009">%null%</text>
 <text id="10020010">Underfloor Movement</text>
-<text id="10020011">Wolf can slip into tight spaces such as 
+<text id="10020011">Wolf can slip into tight spaces such as
 beneath floors when crouched.</text>
 <text id="10020012">%null%</text>
 <text id="10020013">%null%</text>
@@ -694,7 +694,7 @@ lowering chances of Unseen Aid.</text>
 <text id="10020308">%null%</text>
 <text id="10020309">%null%</text>
 <text id="10020310">Resource use during Reflection</text>
-<text id="10020311">Consumables used during Reflection 
+<text id="10020311">Consumables used during Reflection
 or Gauntlet of Strength are replenished upon returning to reality.
 
 As reflection is wholly within the mind, resources may be used freely.</text>
@@ -1066,7 +1066,7 @@ As reflection is wholly within the mind, resources may be used freely.</text>
 <text id="10022000">Posture</text>
 <text id="10022001">When Wolf's or an enemy's posture gauge is maxed out, posture is broken.
 
-Enemy posture can be damaged by a 
+Enemy posture can be damaged by a
 combination of deflecting and attacking.
 </text>
 <text id="10022002">%null%</text>
@@ -1130,8 +1130,8 @@ Red:Hostile</text>
 <text id="10022058">%null%</text>
 <text id="10022059">%null%</text>
 <text id="10022060">Plunging Deathblow</text>
-<text id="10022061">&lt;?kgiconKc@6?&gt;: Jump 
-&lt;?kgiconKc@16?&gt;: when red marker appears: 
+<text id="10022061">&lt;?kgiconKc@6?&gt;: Jump
+&lt;?kgiconKc@16?&gt;: when red marker appears:
 Plunging Deathblow</text>
 <text id="10023000">Sword Combat</text>
 <text id="10023001">&lt;?kgiconKc@16?&gt;: Attack
@@ -1208,13 +1208,13 @@ The last Sculptor's Idol communed with acts as a checkpoint.</text>
 <text id="10023068">%null%</text>
 <text id="10023069">%null%</text>
 <text id="10023070">Posture Recovery Speed</text>
-<text id="10023071">Posture recovers over time.  
+<text id="10023071">Posture recovers over time.
 
-The lower one's Vitality, the slower 
+The lower one's Vitality, the slower
 posture recovers.</text>
 <text id="10023090">Perilous Attacks</text>
-<text id="10023091">Some enemies use unguardable 
-"Perilous Attacks", signified with a danger symbol.  
+<text id="10023091">Some enemies use unguardable
+"Perilous Attacks", signified with a danger symbol.
 When these occur, watch carefully and look to perform a specific response.
 
 &lt;?kgiconKc@18?&gt; as thrust lands: Deflect
@@ -1244,7 +1244,7 @@ pouncing on them from above.
 
 &lt;?kgiconKc@12?&gt;: Lock-on
 &lt;?kgiconKc@6?&gt;: Jump toward enemy
-&lt;?kgiconKc@16?&gt; when red marker appears: 
+&lt;?kgiconKc@16?&gt; when red marker appears:
 Plunging Deathblow</text>
 <text id="10023112">%null%</text>
 <text id="10023113">%null%</text>
@@ -1261,7 +1261,7 @@ Combine attacks and deflects to break enemy posture.
 A posture-broken enemy is vulnerable to a Deathblow.
 
 &lt;?kgiconKc@16?&gt;: Attack
-&lt;?kgiconKc@18?&gt; as attack lands: Deflect 
+&lt;?kgiconKc@18?&gt; as attack lands: Deflect
 &lt;?kgiconKc@16?&gt; on posture-broken enemy: Deathblow</text>
 <text id="10023122">%null%</text>
 <text id="10023123">%null%</text>
@@ -1280,11 +1280,11 @@ There are a variety of Prosthetic Tools, each effective in different situations.
 &lt;?kgiconKc@15?&gt;: Cycle Prosthetic Tools</text>
 <text id="10023150">Using Quick Items</text>
 <text id="10023151">You can cycle through various
-Quick Items and use each 
+Quick Items and use each
 according to the situation.
 
-For instance, if you have taken 
-damage, you can recover Vitality 
+For instance, if you have taken
+damage, you can recover Vitality
 with the Healing Gourd.
 
 &lt;?kgiconKc@21?&gt;: Use Quick Item
@@ -1327,11 +1327,11 @@ If you're about to be seen, warning markers appear above enemies' heads.</text>
 <text id="10024509">%null%</text>
 <text id="10024510">Using Quick Items</text>
 <text id="10024511">You can cycle through various
-Quick Items and use each 
+Quick Items and use each
 according to the situation.
 
-For instance, if you have taken 
-damage, you can recover Vitality 
+For instance, if you have taken
+damage, you can recover Vitality
 with the Healing Gourd.
 
 &lt;?kgiconKc@21?&gt;: Use Quick Item
@@ -1364,8 +1364,8 @@ This allows you to deal Posture damage without giving the enemy time to recover.
 multiple Deathblows to be killed.
 
 The number of Deathblows required to
-kill an enemy is shown by the 
-red circular markers above their vitality bars.  
+kill an enemy is shown by the
+red circular markers above their vitality bars.
 
 Each Deathblow removes one marker.</text>
 <text id="10024532">%null%</text>
@@ -1395,7 +1395,7 @@ on opponents unaware of your presence.
 
 The "Plunging Deathblow" is one of these, performed when leaping at an unaware enemy from high ground.
 &lt;?kgiconKc@12?&gt;: Lock on to enemy
-&lt;?kgiconKc@6?&gt;: Jump 
+&lt;?kgiconKc@6?&gt;: Jump
 &lt;?kgiconKc@16?&gt;: Plunging Deathblow</text>
 <text id="10024552">%null%</text>
 <text id="10024553">%null%</text>
@@ -1434,8 +1434,8 @@ They can be equipped in the Equipment Menu, and using them consumes Spirit Emble
 <text id="10024578">%null%</text>
 <text id="10024579">%null%</text>
 <text id="10024580">Perilous Attacks</text>
-<text id="10024581">Some enemies use unguardable 
-"Perilous Attacks", signified with a danger symbol.  
+<text id="10024581">Some enemies use unguardable
+"Perilous Attacks", signified with a danger symbol.
 When these occur, watch carefully and look to perform a specific response.
 
 &lt;?kgiconKc@18?&gt; as thrust lands: Deflect
@@ -1462,7 +1462,7 @@ You can quickly return to the Sculptor via the "Travel" option at a Sculptor's I
 <text id="10024598">%null%</text>
 <text id="10024599">%null%</text>
 <text id="10024600">Dragon's Blood Stagnation</text>
-<text id="10024601">Dying without resurrecting results in 
+<text id="10024601">Dying without resurrecting results in
 "Stagnation of the Dragon's Blood".
 When stagnation reaches its limits,
 it has a chance of "overflowing".
@@ -1479,7 +1479,7 @@ When this happens, some known to Wolf will becomes sick with "Dragonrot", and hi
 <text id="10024610">Dragonrot Restoration</text>
 <text id="10024611">If someone afflicted with Dragonrot is not treated, they will die.
 
-However, Emma can create a medicine 
+However, Emma can create a medicine
 called Dragonrot Pellet to cure them.
 
 Dragonrot Pellets require
@@ -1520,10 +1520,10 @@ Each enemy defeated provides Skill Experience.  Skill Points are acquired once e
 <text id="10024639">%null%</text>
 <text id="10024640">Combat Arts</text>
 <text id="10024641">"Combat Arts" are special attack skills based on the strengths of the fighting style they belong to.
-They must be equipped in the 
+They must be equipped in the
 Equipment Menu to be used, and can be learned through the Skill Menu or found in special Esoteric Texts.
 
-&lt;?kgiconKc@16?&gt; while holding &lt;?kgiconKc@18?&gt;: 
+&lt;?kgiconKc@16?&gt; while holding &lt;?kgiconKc@18?&gt;:
 Perform equipped Combat Art</text>
 <text id="10024642">%null%</text>
 <text id="10024643">%null%</text>
@@ -1554,7 +1554,7 @@ can be viewed in the Equipment Menu.</text>
 
 They must be equipped in the Equipment Menu, and cost Spirit Emblems to perform.
 
-&lt;?kgiconKc@16?&gt; after Backstab Deathblow: 
+&lt;?kgiconKc@16?&gt; after Backstab Deathblow:
 Ninjutsu Technique</text>
 <text id="10024662">%null%</text>
 <text id="10024663">%null%</text>
@@ -1581,7 +1581,7 @@ Press &lt;?kgiconKc@20?&gt; near world item: Pick Up Item</text>
 <text id="10024680">Resurrection</text>
 <text id="10024681">The Divine Heir's blood grants the ability to return from the dead using "Resurrective Power".
 
-One charge is always restored by resting at a Sculptor's Idol, killing enemies restores additional charges.  
+One charge is always restored by resting at a Sculptor's Idol, killing enemies restores additional charges.
 Resurrection becomes unusable immediately after using it, but killing enemies will make it available again.</text>
 <text id="10024682">%null%</text>
 <text id="10024683">%null%</text>
@@ -1638,7 +1638,7 @@ When posture-broken or knocked down, &lt;?kgiconKc@6?&gt; or &lt;?kgiconKc@5?&gt
 <text id="10024721">Spirit Emblems are required to activate
 Prosthetic Tools, and are consumed each time these abilities are used.
 
-Spirit Emblems can be obtained from 
+Spirit Emblems can be obtained from
 defeated enemies, in the world, and purchased from Sculptor's Idols.
 
 If you pass near them, they will find their way to you.</text>
@@ -1660,8 +1660,8 @@ Items can be obtained by inspecting the box and offering money.</text>
 <text id="10024750">Posture and Deathblows</text>
 <text id="10024751">A Shinobi aims to break an opponent's posture.  Attacking an enemy is one way to achieve this.
 
-When an enemy's posture breaks, 
-he is vulnerable to a 
+When an enemy's posture breaks,
+he is vulnerable to a
 "Shinobi Deathblow".
 &lt;?kgiconKc@16?&gt;: Attack
 &lt;?kgiconKc@16?&gt; after breaking posture: Deathblow</text>
@@ -1735,7 +1735,7 @@ Hold &lt;?kgiconKc@5?&gt; + &lt;?kgMove?&gt;: Sprint
 <text id="10024800">Loss upon Death</text>
 <text id="10024801">Experience toward the next skill point and current sen in hand are halved upon death.  Everything lost is gone for good.
 
-There are no known means to escape this loss.  
+There are no known means to escape this loss.
 
 However, through the grace of the gods or Buddha, it may not be impossible...</text>
 <text id="10024802">%null%</text>
@@ -1751,7 +1751,7 @@ However, through the grace of the gods or Buddha, it may not be impossible...</t
 
 Through the Unseen Aid of gods and Buddha, one may be spared this loss.
 
-The chances of receiving Unseen Aid 
+The chances of receiving Unseen Aid
 can be seen in the Pause Menu.
 &lt;?kgiconKc@27?&gt;: Open Pause Menu</text>
 <text id="10024812">%null%</text>
@@ -1763,7 +1763,7 @@ can be seen in the Pause Menu.
 <text id="10024818">%null%</text>
 <text id="10024819">%null%</text>
 <text id="10024820">Dragonrot</text>
-<text id="10024821">The more one with the power of the Dragon's Heritage dies, the more a sickness known as Dragonrot spreads through the world.  
+<text id="10024821">The more one with the power of the Dragon's Heritage dies, the more a sickness known as Dragonrot spreads through the world.
 Dragonrot is not caused by Resurrection,
 it has a chance to occur only when the Wolf truly dies, repeatedly.
 
@@ -1802,7 +1802,7 @@ Vitality-damaging techniques such as Dodge Counterattack are ideal against enemi
 <text id="10024848">%null%</text>
 <text id="10024849">%null%</text>
 <text id="10024850">Countering Thrust Attacks</text>
-<text id="10024851">Thrust attacks cannot be blocked, 
+<text id="10024851">Thrust attacks cannot be blocked,
 but they can be deflected.
 
 The Mikiri Counter skill also counters Thrust attacks, and performing it successfully will deal greater Posture damage than a normal deflect.</text>
@@ -1839,7 +1839,7 @@ Reflection of Strength can be accessed via the Sculptor's Idol menu.</text>
 
 Gauntlet of Strength can be accessed via the Sculptor's Idol menu.
 
-Confronting memories of the past is akin to the discovery of new possibilities. 
+Confronting memories of the past is akin to the discovery of new possibilities.
 The very ends of conflict may afford a new state of mind.</text>
 <text id="10024902">%null%</text>
 <text id="10024903">%null%</text>
@@ -1854,7 +1854,7 @@ The very ends of conflict may afford a new state of mind.</text>
 
 Reflection and Gauntlet of Strength can be accessed via the Sculptor's idol menu.
 
-Confronting memories of the past is akin to the discovery of new possibilities. 
+Confronting memories of the past is akin to the discovery of new possibilities.
 The very ends of conflict may afford a new state of mind.</text>
 <text id="10024912">%null%</text>
 <text id="10024913">%null%</text>
@@ -1865,7 +1865,7 @@ The very ends of conflict may afford a new state of mind.</text>
 <text id="10024918">%null%</text>
 <text id="10024919">%null%</text>
 <text id="10024920">Memories of Another</text>
-<text id="10024921">Memories, regrets, or obsessions left by another.  
+<text id="10024921">Memories, regrets, or obsessions left by another.
 
 Harbouring these innermost thoughts at a Sculptor's Idol will allow the Wolf to alter his form, though doing so will have no bearing on his ability.
 
@@ -1879,19 +1879,19 @@ Taking charge of another's regret is but a fleeting thing, after all.</text>
 <text id="10024928">%null%</text>
 <text id="10024929">%null%</text>
 <text id="10024930">Remnant Reputation</text>
-<text id="10024931">You recover Vitality when someone 
+<text id="10024931">You recover Vitality when someone
 praises a Remnant you have left.
 
-A shinobi's reputation travels upon the wind.  
+A shinobi's reputation travels upon the wind.
 Hearing the wind's whisper provides a precious moment of solace and comfort.
 
 *A network connection is required to gain the benefits of Remnant Reputation
 </text>
 <text id="10025000">Equipment Menu: Quick Items</text>
-<text id="10025001">The Equipment Menu allows you to change your 
+<text id="10025001">The Equipment Menu allows you to change your
 currently equipped Quick Items.
 
-There are 5 slots available to equip and 
+There are 5 slots available to equip and
 switch out Quick Items as needed.</text>
 <text id="10025002">%null%</text>
 <text id="10025003">%null%</text>
@@ -1904,7 +1904,7 @@ switch out Quick Items as needed.</text>
 <text id="10025010">Equipment Menu - Prosthetic Tools</text>
 <text id="10025011">
 Prosthetic Tool equipment slots have been unlocked.
-There are 3 slots available to equip and switch out Prosthetic Tools as needed.  
+There are 3 slots available to equip and switch out Prosthetic Tools as needed.
 
 On the equipment selection screen, the controls can be viewed through &lt;?kgicon@2010?&gt;.</text>
 <text id="10025012">%null%</text>
@@ -1944,7 +1944,7 @@ Here you can spend four Prayer Beads to create a Prayer Necklace, which will per
 
 </text>
 <text id="10025090">Fitting Prosthetic Tools</text>
-<text id="10025091">Regular shinobi tools found in the world can be specially adapted 
+<text id="10025091">Regular shinobi tools found in the world can be specially adapted
 to the Shinobi Prosthetic via the "Fit Prosthetic Tools" menu.</text>
 <text id="10025092">%null%</text>
 <text id="10025093">%null%</text>
@@ -1957,7 +1957,7 @@ to the Shinobi Prosthetic via the "Fit Prosthetic Tools" menu.</text>
 <text id="10025100">Prosthetic Tool Upgrades</text>
 <text id="10025101">In the Prosthetic Tool Upgrade Menu, upgrade materials and sen can be spent to create upgraded versions of Prosthetic Tools.
 
-To upgrade, one must own the base tool and also complete any prerequisite upgrades.  
+To upgrade, one must own the base tool and also complete any prerequisite upgrades.
 
 Older versions of a tool can still be used after upgrading.</text>
 <text id="10025102">%null%</text>
@@ -2013,7 +2013,7 @@ You can now consume Battle Memories to increase your attack power, causing you t
 <text id="10025228">%null%</text>
 <text id="10025229">%null%</text>
 <text id="10025230">Sculptor's Idol Menu</text>
-<text id="10025231">Sculptor's Idols serve as a checkpoint and can be found throughout Ashina.  Resting at a Sculptor's Idol will completely replenish Vitality and restore one use of Resurrection.  Additionally, Quick Items and Spirit Emblems in storage will be added to your current inventory.  
+<text id="10025231">Sculptor's Idols serve as a checkpoint and can be found throughout Ashina.  Resting at a Sculptor's Idol will completely replenish Vitality and restore one use of Resurrection.  Additionally, Quick Items and Spirit Emblems in storage will be added to your current inventory.
 
 With some exceptions, Resting will also revive defeated enemies.</text>
 <text id="10025232">%null%</text>
@@ -2057,11 +2057,11 @@ During reflection, Wolf's attack power is not tied to his strength in the real w
 <text id="10025279">%null%</text>
 <text id="10025280">Gauntlet of Strength</text>
 <text id="10025281">By reflecting upon his memories, Wolf can perform a series of
-one-on-one battles with extraordinary foes he has defeated 
-in the past.  Defeat at any point will result in a failed attempt, 
+one-on-one battles with extraordinary foes he has defeated
+in the past.  Defeat at any point will result in a failed attempt,
 returning Wolf to reality.
 During reflection, Wolf's attack power is not tied to his strength
-in the real world, and Quick Items and Spirit Emblems used 
+in the real world, and Quick Items and Spirit Emblems used
 will be replenished upon returning to reality.</text>
 <text id="10025300">Changing Form</text>
 <text id="10025301">The Change Form menu has been unlocked.
@@ -2112,10 +2112,10 @@ There are no rewards to be gained upon completing this grueling life or death st
 <text id="10025338">%null%</text>
 <text id="10025339">%null%</text>
 <text id="10025340">Remnants</text>
-<text id="10025341">Shinobi can leave behind shadows of their past actions, known as "Remnants". 
+<text id="10025341">Shinobi can leave behind shadows of their past actions, known as "Remnants".
 Vitality is replenished when one's Remnant is praised by another Shinobi.
 
-Remnants can be recorded via the "Recorded Remnants" tab.  
+Remnants can be recorded via the "Recorded Remnants" tab.
 Messages can be written to accompany Remnants.
 
 Select a slot and &lt;?kgiconKc@33?&gt;: Record Remnant</text>
@@ -2343,7 +2343,7 @@ Doing so will damage enemy Posture without giving them a chance to recover.
 <text id="11100031">Step Dodge allows one to avoid attacks.
 
 Dodging won't compromise enemy posture, but may help one avoid damage.
-"Evade enemy attacks, then attack and 
+"Evade enemy attacks, then attack and
 perform 3 Deathblows."
 &lt;?kgiconKc@5?&gt;: Step Dodge
 After dodge, &lt;?kgiconKc@16?&gt;: Dodge Counterattack</text>
@@ -2427,11 +2427,11 @@ Known as "Mikiri Counter", this is a powerful if risky move that deals more Post
 <text id="11100088">%null%</text>
 <text id="11100089">%null%</text>
 <text id="11100090">Consecutive Deflections</text>
-<text id="11100091">Deflecting once doesn't always mean 
+<text id="11100091">Deflecting once doesn't always mean
 an enemy will stop attacking.
 Consecutive attacks can be countered with "Consecutive Deflections", which can greatly damage enemy Posture.
 
-"Deflect all enemy attacks and 
+"Deflect all enemy attacks and
 perform 3 Deathblows."
 &lt;?kgiconKc@18?&gt; as attacks land:
 Consecutive Deflections</text>
@@ -2675,8 +2675,8 @@ May their spirits rest.</text>
 <text id="12000028">%null%</text>
 <text id="12000029">%null%</text>
 <text id="12000030">Sunken Valley Clan Document</text>
-<text id="12000031">The Sunken Valley Clan worship the 
-Great Serpent, and shoot strangers 
+<text id="12000031">The Sunken Valley Clan worship the
+Great Serpent, and shoot strangers
 on sight.  The "Snake Eyes" are a feared,
 elite group of women snipers known for
 hitting targets at impossible distances.</text>
@@ -2715,7 +2715,7 @@ who is walking.</text>
 Doesn't matter who it is, they splash mud.
 Splash it everywhere.
 
-The seeing monkey splashes it, 
+The seeing monkey splashes it,
 so does the hearing monkey, the speaking
 monkey, and the                               too …</text>
 <text id="12000254">%null%</text>
@@ -2725,14 +2725,14 @@ monkey, and the                               too …</text>
 <text id="12000258">%null%</text>
 <text id="12000259">%null%</text>
 <text id="12000260">Roaring Hall Posting</text>
-<text id="12000261">The noise of the Roaring Waterfall 
+<text id="12000261">The noise of the Roaring Waterfall
 is deafening.
-Surely no one can hear anything else 
+Surely no one can hear anything else
 in here.</text>
 <text id="12000262">Roaring Hall Posting</text>
 <text id="12000263">The roaring waterfall is deafening.
 
-Surely none could hear anything else 
+Surely none could hear anything else
 in here.</text>
 <text id="12000264">%null%</text>
 <text id="12000265">%null%</text>
@@ -2742,51 +2742,51 @@ in here.</text>
 <text id="12000269">%null%</text>
 <text id="12000270">Lamplit Hall Posting</text>
 <text id="12000271">A flame in the wind.
-Snuff the flame, and this place is 
+Snuff the flame, and this place is
 dark as night.</text>
 <text id="12000272">Lamplit Hall Posting</text>
 <text id="12000273">The dim light is snuffed out all too easily,
 much like a flame in the wind.
 
-When that happens, this place is 
+When that happens, this place is
 dark as night.
 The darkness begets fear and uncertainty,
 even for those with the sharpest of eyes.</text>
 <text id="12000274">Light Hall Note</text>
 <text id="12000275">A bare flame in the wind.
-When it goes out, the place 
+When it goes out, the place
 becomes dark as night.</text>
 <text id="12000276">%null%</text>
 <text id="12000277">%null%</text>
 <text id="12000278">%null%</text>
 <text id="12000279">%null%</text>
 <text id="12000280">Abyss Hall Note</text>
-<text id="12000281">Below is an abyss.  
+<text id="12000281">Below is an abyss.
 The bottom cannot be seen.
 
-Above is darkness.  
+Above is darkness.
 Nothing can be seen.</text>
 <text id="12000282">Abyss Hall Note</text>
 <text id="12000283">Below is an abyss.
 Above is darkness.
 
-Climbing up leads to the 
+Climbing up leads to the
 blinding darkness.
-The darkness begets fear 
-and uncertainty, even for those 
+The darkness begets fear
+and uncertainty, even for those
 with the sharpest of eyes.</text>
 <text id="12000284">Abyss Hall Note</text>
-<text id="12000285">Below is an abyss.  
+<text id="12000285">Below is an abyss.
 The bottom cannot be seen.
 
-Above is darkness.  
+Above is darkness.
 Nothing can be seen.</text>
 <text id="12000286">%null%</text>
 <text id="12000287">%null%</text>
 <text id="12000288">%null%</text>
 <text id="12000289">%null%</text>
 <text id="12000290">Altar of the Shelter stone</text>
-<text id="12000291">Shelter stones such as this 
+<text id="12000291">Shelter stones such as this
 are an auspicious omen,
 sweetly scented for a bridal offering.
 
@@ -2830,7 +2830,7 @@ I've opened the library.  Meet me there.
 <text id="12000319">%null%</text>
 <text id="12000320">Deafening Bell Note</text>
 <text id="12000321">This bell is deafening.
-Ringing it recklessly will also 
+Ringing it recklessly will also
 make your ears ring.</text>
 <text id="12000322">%null%</text>
 <text id="12000323">%null%</text>
@@ -2854,8 +2854,8 @@ Leads to Demon Bell</text>
 <text id="12000340">Bell Inscription</text>
 <text id="12000341">Do not ring this bell.
 
-Inviting misfortune is an act of virtue, 
-but only the stoutest of heart should 
+Inviting misfortune is an act of virtue,
+but only the stoutest of heart should
 ever consider it.</text>
 <text id="12001000">Spend Skill Points to enhance Attack Power?</text>
 <text id="12001001">%null%</text>
@@ -2903,7 +2903,7 @@ ever consider it.</text>
 Convert the battle Memory to a Remnant?</text>
 <text id="12010000">Change costume</text>
 <text id="12010100">Are you sure you want to take back the charm,
-and avoid the path of additional hardships? 
+and avoid the path of additional hardships?
 (This decision cannot be undone for this playthrough.)</text>
 <text id="12011100">Walk the path of additional hardships?</text>
 <text id="12014000">Pay &lt;?evntAcquittalPrice?&gt; sen to purchase Dragon's Blood Droplet?</text>
@@ -2915,7 +2915,7 @@ and avoid the path of additional hardships?
 <text id="12023000">Consume Resurrective Power to create Dragonrot Pellet?</text>
 <text id="12023001">Consume Gourd Seed to increase maximum uses of Healing Gourd?</text>
 <text id="12023002">Give Dragonrot Blood Sample?</text>
-<text id="12090000">You will be unable to return to the current playthrough #(&lt;?loopCount?&gt;) 
+<text id="12090000">You will be unable to return to the current playthrough #(&lt;?loopCount?&gt;)
 after starting the next playthrough (&lt;?nextLoopCount?&gt;).
 Are you sure you want to start the next playthrough #(&lt;?nextLoopCount?&gt;)?</text>
 <text id="12095000">Give Ashina Sake?</text>
@@ -2941,7 +2941,7 @@ Are you sure you want to start the next playthrough #(&lt;?nextLoopCount?&gt;)?<
 <text id="13000009">%null%</text>
 <text id="13000010">You don't have the &lt;?evntAcquittalPrice?&gt; Prayer Beads required.</text>
 <text id="13000011">Consume &lt;?evntAcquittalPrice?&gt; Prayer Beads to Enhance Physical Attributes?</text>
-<text id="13000012">Physical attributes enhanced.  
+<text id="13000012">Physical attributes enhanced.
 Maximum Vitality and Posture have increased.</text>
 <text id="13000013">Physical attributes cannot be enhanced any further.</text>
 <text id="13000014">%null%</text>
@@ -2950,7 +2950,7 @@ Maximum Vitality and Posture have increased.</text>
 <text id="13000017">%null%</text>
 <text id="13000018">%null%</text>
 <text id="13000019">%null%</text>
-<text id="13000020">Not enough sen to suppress stagnation.  
+<text id="13000020">Not enough sen to suppress stagnation.
 &lt;?evntAcquittalPrice?&gt; sen is required.</text>
 <text id="13000021">Spend &lt;?evntAcquittalPrice?&gt; sen to suppress stagnation?</text>
 <text id="13000022">Stagnation has been suppressed</text>
