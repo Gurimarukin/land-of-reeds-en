@@ -248,11 +248,39 @@ she performed in her master's honor.
 The sakura blossoms will soon fall.
 If you cannot return home, at least allow
 this dance to console you.</text>
-<text id="2491">%null%</text>
-<text id="2492">%null%</text>
-<text id="2493">%null%</text>
-<text id="2494">%null%</text>
-<text id="2495">%null%</text>
+<text id="2491">此为武士战斗架式的部分技巧
+化解敌人高强度的攻击便可获得少量纸人
+
+武士同忍者一样，生命中不乏杀戮
+
+无论对于自己，还是他人
+真正的武者，即便是在杀戮中，心中也依然存有善念</text>
+<text id="2492">如溪中湍流般的架势
+
+可在忍具的派生攻击后立马调整姿态
+从而表现出生生不息的攻守兼备之势
+
+曾几何时，苇名众参拜源之水
+固战斗技巧，也有几分形似湍急的河流</text>
+<text id="2493">解放地牢中怨魂所得
+
+可强化自身灵属性攻击，同时降低受到的灵属性伤害
+同时还能减少受到的怖属性积累
+
+苇名城的地牢，阴暗潮湿
+尸骨堆积如山，怨灵不计其数
+此乃施术师的恶业，亦或是人之恶业，无可逃脱
+敲响巡礼之钟，诚心祈求原谅，使徘徊之物，获得安息</text>
+<text id="2494">击败【心中的狼】获得
+
+击败强敌的狼龙胤之力得到强化
+复活后回生之力可立马使用</text>
+<text id="2495">击败【巴】获得
+
+与前一任龙胤仆从：巴对决后习得的技巧
+完整的飞渡漩涡云，代表着对主人的感情
+
+与无法归乡的忧愁</text>
 <text id="2496">%null%</text>
 <text id="2497">%null%</text>
 <text id="2498">%null%</text>
@@ -770,7 +798,16 @@ stance to impart its inhuman benediction.
 Forbidden at the temple, this candy was
 distributed far and wide in exchange for
 donations towards costly undying research.</text>
-<text id="3411">%null%</text>
+<text id="3411">仙峰寺制作的能获得“修罗”庇护作用的糖
+虽会暂时使最大ＨＰ和躯干大幅减少
+但可大幅强化攻击力与对躯干的攻击力
+
+咬碎糖块，并摆出“夜叉戮”的架势
+非人之魂魄的庇护便会降临于身
+
+夜叉戮糖在仙峰寺被禁制
+但不死之身的探求花费巨大
+为了换来捐赠，此糖也被散播到了寺外</text>
 <text id="3412">%null%</text>
 <text id="3413">%null%</text>
 <text id="3414">%null%</text>
@@ -846,6 +883,36 @@ As the gods bless the waters, so too
 will the confetti bless one who basks
 in its touch, allowing attacks to
 connect with apparition-type enemies.</text>
+<text id="3460">黑暗之魂
+从绘画世界中得到的不详物件
+
+可将其暂时附着到武器上
+使攻击带有不详的黑色火焰
+
+其注入身体可获得非人之魂的加持</text>
+<text id="3461">残缺的黑暗之魂
+
+虽然残缺，但蕴含着可怕的力量
+如果集齐另一半或许可以使用其真正的力量吧
+</text>
+<text id="3465">深渊的护符
+
+可让携带者进入深渊并减少深渊的侵蚀
+
+忍者的行动必将做好充足的准备
+尤其是跨入未知的地域时
+如一意孤行，便只有死路一条</text>
+<text id="3470">一心的火铳
+装入忍义手便可成为义手忍具
+
+一心曾使用的连发火铳
+对人类或是野兽效果都格外优秀
+
+“时代是会变的，小子” 一心如是说道</text>
+<text id="3480">获得女武神 巴龙胤之力的传承后得到的神器
+可将纸人转换为回生之力
+
+但无法让罹患龙咳的人痊愈</text>
 <text id="3500">A piece of pottery that breaks with a satisfying crack when thrown.
 
 Throw it at an enemy to draw their attention.
@@ -895,6 +962,12 @@ If an illusion occurs, it is because someone created it.
 To crush the phantoms and return to reality
 one must defeat the creator of the illusion.
 Snap seeds can be of great help in that regard.</text>
+<text id="3540">用来收集强者魂核的容器
+
+必要时可以让魂核附身使用敌人强大的招式
+
+使用该道具来切换魂核凭附
+</text>
 <text id="3580">A gourd with five-colored rice used by shinobi as landmarks.
 Intended to be spread on the ground in recognizable patterns.
 
@@ -1053,6 +1126,26 @@ and set adrift on the Fountainhead waters.
 
 The blade is inscribed with its true name:
 "Devoted Soul."</text>
+<text id="3802">刀刃为樱色的短刀
+可将纸人转换为回生之力
+通过休息便能再次使用
+
+此短刀原本用于御灵奉还
+将樱色刀刃所削出的代表自身的红色纸人
+放到幼子身边，以为幼子祈福的仪式
+
+刀身上铭刻着“归魂”的字样
+便是此短刀的真名</text>
+<text id="3803">刀刃为樱色的短刀
+可将纸人转换为回生之力
+通过休息便能再次使用
+
+此短刀原本用于御灵奉还
+将樱色刀刃所削出的代表自身的红色纸人
+放到幼子身边，以为幼子祈福的仪式
+
+刀身上铭刻着“归魂”的字样
+便是此短刀的真名</text>
 <text id="3900">A bamboo tube used to see distant objects.
 
 While shinobi already have good vision,
@@ -1555,9 +1648,18 @@ The original must have been broken into several pieces, and this fragment appear
 The original must have been broken into several pieces, and this fragment appears to be the left side of the mask.  </text>
 <text id="5502">A fragment of an old dancer's mask.
 The original must have been broken into several pieces, and this fragment appears to be a decoration at the top of the mask.</text>
-<text id="5503">%null%</text>
-<text id="5504">%null%</text>
-<text id="5505">%null%</text>
+<text id="5503">破碎之物的碎片之一
+这似乎是该物品的右半部分
+
+原本应该是一个完整的物品</text>
+<text id="5504">破碎之物的碎片之一
+这似乎是该物品的左半部分
+
+原本应该是一个完整的物品</text>
+<text id="5505">破碎之物的碎片之一
+这似乎是该物品的中心部分
+
+原本应该是一个完整的物品</text>
 <text id="5506">%null%</text>
 <text id="5507">%null%</text>
 <text id="5508">%null%</text>
@@ -1565,6 +1667,14 @@ The original must have been broken into several pieces, and this fragment appear
 <text id="5510">A dragon's head dancing mask, made whole by piecing the fragments back together.
 Grants the ability to exchange Skill Points for Attack Power in the Sculptor's Idol menu.
 The Okami warrior women would wear this to the Fountainhead Palace.  There, they would dance as an offering for the dragon.  Mysteriously, the ritual left them brimming with vigor.</text>
+<text id="5511">容纳灵魂的神器
+用打破的碎片拼凑而成
+
+被狼获得后自动附着在忍义手上
+用魂核凭附选择灵魂后
+再次使用忍义手即可让狼暂时变身英灵作战
+
+</text>
 <text id="5600">An item that is rarely dropped by a Divine Heir of the Dragon's Heritage.
 Using it will slightly increase Resurrective Power.
 Restore the power of life to those who have been drained of it by offering this drop to the Sculptor's Idol with the Recovery Charm in hand.  In turn, all afflicted with the Dragonrot will be healed.
@@ -1733,7 +1843,9 @@ can advise on how it should be offered.</text>
 The Owl held this bell for a long time.
 Offering it at the Dilapidated Temple may result in seeing a different memory than before.
 There's no way of knowing why this protective bell exists.  Perhaps the Owl kept it for himself, or perhaps he meant to give it to someone...</text>
-<text id="9012">%null%</text>
+<text id="9012">上一任修罗舍弃人性时丢弃的守护铃，蕴含着修罗的力量
+若将其供奉至破旧寺院的佛像前
+或许能看到不同的旧时记忆吧</text>
 <text id="9013">%null%</text>
 <text id="9014">%null%</text>
 <text id="9015">%null%</text>
@@ -2094,6 +2206,28 @@ I beseech you, make offerings for the Dragon's Blood..."</text>
 <text id="9228">A holy book on enlightenment, inscribed
 "For the Divine Child of Rejuvenation".
 "For an age, I have been blessed by the worm.  To be undying is to walk the eternal path to enlightenment, thus I must become enlightened to understand why I cannot die.  It is said the holy dragon's origins were in the west. So I wonder, how did the worm come to be bestowed upon me?"</text>
+<text id="9240">  能使“修罗”之灵降于自身的谜之亡魂
+   可暂时极大幅强化攻击力和躯干攻击力
+   但效果消失时自身将受到修罗之炎灼烧
+   消耗纸人便可使用
+
+   修罗是斩人过多
+   导致自身被怨念之火寄宿之人
+
+   终将被地狱之炎灼烧
+
+   那名白衣老者与红衣女子
+   依然在守护着此片被修罗觊觎的土地……</text>
+<text id="9241">  击败芦苇之国君主后，悄然出现的奇怪信件
+   上面如此写道：
+   这个国家怎么样？是很美丽的国家吧？
+   是一个梦幻一样的国家吧？
+   如果是那样的话，那么没有比这更让我感到喜悦的事了.
+
+   欢迎来到芦苇之国，客人们.
+   但愿这里的风景，能在您的记忆中永存.
+
+   将信件握于手中，若如此，一定会获得某些帮助吧</text>
 <text id="9402">The key to a samurai gatehouse located in the Ashina Reservoir, not far from the well the Wolf was kept in.
 Here, Gyoubu the Demon's Broken Horn
 is respectfully guarded by Ashina samurai.
@@ -2543,7 +2677,8 @@ Fountainhead Palace</text>
 <text id="11078">%null%</text>
 <text id="11079">%null%</text>
 <text id="11080">Location:
-Ashina Castle</text>
+Ashina Castle
+芦苇之国的主城，再见义父之地</text>
 <text id="11081">%null%</text>
 <text id="11082">%null%</text>
 <text id="11083">%null%</text>
@@ -2554,7 +2689,8 @@ Ashina Castle</text>
 <text id="11088">%null%</text>
 <text id="11089">%null%</text>
 <text id="11090">Location:
-Hirata Estate</text>
+Hirata Estate
+枭之所在</text>
 <text id="11091">%null%</text>
 <text id="11092">%null%</text>
 <text id="11093">%null%</text>
@@ -2576,7 +2712,8 @@ Fountainhead Palace</text>
 <text id="11108">%null%</text>
 <text id="11109">%null%</text>
 <text id="11110">Location:
-Ashina Castle</text>
+Ashina Castle
+芦苇之国的天守阁，绝望由此蔓延</text>
 <text id="11111">%null%</text>
 <text id="11112">%null%</text>
 <text id="11113">%null%</text>
@@ -2587,7 +2724,8 @@ Ashina Castle</text>
 <text id="11118">%null%</text>
 <text id="11119">%null%</text>
 <text id="11120">Location:
-Ashina Castle</text>
+Ashina Castle
+芦苇之国的天守阁，此乃绝望滋生之地</text>
 <text id="11121">%null%</text>
 <text id="11122">%null%</text>
 <text id="11123">%null%</text>
@@ -2598,7 +2736,8 @@ Ashina Castle</text>
 <text id="11128">%null%</text>
 <text id="11129">%null%</text>
 <text id="11130">Location:
-Ashina Reservoir</text>
+Ashina Reservoir
+芦苇之国的土地，曾是剑圣为之奋斗之处</text>
 <text id="11131">%null%</text>
 <text id="11132">%null%</text>
 <text id="11133">%null%</text>
@@ -2642,7 +2781,8 @@ Hirata Estate</text>
 <text id="11168">%null%</text>
 <text id="11169">%null%</text>
 <text id="11170">Location:
-Ashina Reservoir</text>
+Ashina Reservoir
+芦苇之国的土地，曾是剑圣为之奋斗之处</text>
 <text id="11171">%null%</text>
 <text id="11172">%null%</text>
 <text id="11173">%null%</text>

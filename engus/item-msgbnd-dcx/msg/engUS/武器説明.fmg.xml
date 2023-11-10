@@ -40,16 +40,13 @@ with the sword, spending his days in
 pursuit of life-or-death combat.
 He often ruminated on how a cut should
 be made, but his blade always moved first.</text>
-<text id="5500">Combat Art unleashing a high
-speed attack from a sheathed stance.
-Hold the stance to intercept at will.
-Costs Spirit Emblems to use.
+<text id="5500">此为狼融合了“苇名流”技艺的绝技
 
-A secret technique of the Ashina style,
-devoted to the mastery of a swift kill.
-Draw a cruciform cut in the blink of an
-eye; so fast it could sever the arm of
-Shura, or so boasts Isshin Ashina.</text>
+维持架势便可伺机迎敌.亦可积蓄力量
+消耗纸人便可以使用
+积蓄力量后还可使用"一文字"
+
+“忍者不拘泥于小节，达成目的便足以”</text>
 <text id="5600">Combat Art that unleashes repeated
 attacks, overwhelming enemies with
 flowing, dance-like movements.
@@ -172,6 +169,14 @@ she performed in her master's honor.
 The sakura blossoms will soon fall.
 If you cannot return home, at least allow
 this dance to console you.</text>
+<text id="7800">以旋转之势舞动般掀起樱花、挥斩的流派招式
+消耗纸人便可以使用
+
+以流畅的斩击
+掀起樱花不间断攻击敌人，生生流转
+
+虽为招式，亦是舞蹈
+此技代表了对主人的感情，与无法归乡的哀愁</text>
 <text id="70000">A Shuriken Wheel Prosthetic Tool,
 fitted to the Shinobi Prosthetic.
 Costs Spirit Emblems to use.
@@ -205,6 +210,15 @@ Costs Spirit Emblems to use.
 
 Its piercing edge heavily damages Vitality, and damages Vitality and Posture even if guarded.  These blades do not slow down, even after striking an enemy.
 The lazulite blue trail of light it emits in flight is reminiscent of a shooting star.</text>
+<text id="70600">装有一心连发火铳的义手忍具
+
+可发射出快速长距离高威力的子弹
+对人类或是野兽效果都格外优秀
+
+下蹲释放便可以使出四连发
+
+所谓“苇名流”就是获胜的流派，只要能获胜便无所不用其极
+如要紧跟时代，一击制敌，这东西似乎比刀刃更好用</text>
 <text id="71000">A Prosthetic Tool fitted with Robert's
 firecrackers.  Costs Spirit Emblems.
 
@@ -404,6 +418,15 @@ Can be used to drive beasts mad, and to torment apparition-type enemies.
 The Kingfisher's cry could be heard
 along the waterfront of Sunken Valley.
 Now, she cries no more.</text>
+<text id="79300">配合魂核使用的忍义手
+
+消耗纸人即可使用
+
+在锁定目标后，使用义手即可召唤凭附的荒魂参与战斗
+
+魂核意为魂之居所
+不可安息者与遗憾者暂时的休憩之所
+此物曾有一别名“御神舆”</text>
 <text id="110000">-</text>
 <text id="200000">A Shinobi Martial Art that allows one to leverage the momentum of the grappling hook to perform a sword attack.
 
@@ -491,6 +514,13 @@ devoted to the mastery of a swift kill.
 Draw a cruciform cut in the blink of an
 eye; so fast it could sever the arm of
 Shura, or so boasts Isshin Ashina.</text>
+<text id="411000">此为狼融合了“苇名流”技艺的绝技
+
+维持架势便可伺机迎敌.亦可积蓄力量
+消耗纸人便可以使用
+积蓄力量后还可使用"一文字"而使招式变得完整
+
+“忍者不拘泥于小节，达成目的便足以”</text>
 <text id="510000">A Combat Art using elbow and palm strikes.  Unleash a flurry of quick attacks, inflicting damage while preventing counterattack.
 
 The strikes are both a martial art and a form of prayer.  "Without strength, one cannot defeat the enemies of Buddha..."
@@ -669,6 +699,14 @@ she performed in her master's honor.
 The sakura blossoms will soon fall.
 If you cannot return home, at least allow
 this dance to console you.</text>
+<text id="675000">以旋转之势舞动般掀起樱花、挥斩的流派招式
+消耗纸人便可以使用
+
+以流畅的斩击
+掀起樱花不间断攻击敌人，生生流转
+
+虽为招式，亦是舞蹈
+此技代表了对主人的感情，与无法归乡的哀愁</text>
 <text id="680000">A secret method of breathing known as the Mibu Breathing Technique.
 This Latent Skill allows one to dive under water, as well as breathe underwater indefinitely.
 Developed by the founder of Mibu Village.
@@ -707,6 +745,13 @@ Costs Spirit Emblems to use.
 
 Its piercing edge heavily damages Vitality, and damages Vitality and Posture even if guarded.  These blades do not slow down, even after striking an enemy.
 The lazulite blue trail of light it emits in flight is reminiscent of a shooting star.</text>
+<text id="706000">连发火铳
+同时装备道具【连发火铳】便可以使用
+
+使用道具可发射出快速长距离高威力的子弹
+对人类或是野兽效果都格外优秀
+
+下蹲释放便可以使出四连发</text>
 <text id="711000">A Firecracker upgraded with a spring
 mechanism. Costs Spirit Emblems to use.
 Unleashes a loud explosion and bright
@@ -857,6 +902,39 @@ Can be used to drive beasts mad, and to torment apparition-type enemies.
 The Kingfisher's cry could be heard
 along the waterfront of Sunken Valley.
 Now, she cries no more.</text>
+<text id="793000">配合魂核使用的忍义手
+
+消耗纸人即可使用
+
+在锁定目标后，使用义手即可召唤凭附的荒魂参与战斗
+
+魂核意为魂之居所
+不可安息者与遗憾者暂时的休憩之所
+此物曾有一别名“御神舆”</text>
+<text id="800000">此为武士战斗架式的部分技巧
+化解敌人高强度的攻击便可获得少量纸人
+
+武士同忍者一样，生命中不乏杀戮
+
+无论对于自己，还是他人
+真正的武者，即便是在杀戮中，心中也依然存有善念</text>
+<text id="810000">如溪中湍流般的架势
+
+可在忍具的派生攻击后立马调整姿态
+从而表现出生生不息的攻守兼备之势
+
+曾几何时，苇名众参拜源之水
+固战斗技巧，也有几分形似湍急的河流</text>
+<text id="820000">解放地牢中怨魂所得
+
+可强化自身灵属性攻击，同时降低受到的灵属性伤害
+同时还能减少受到的怖属性积累
+
+苇名城的地牢，阴暗潮湿
+尸骨堆积如山，怨灵不计其数
+此乃施术师的恶业，亦或是人之恶业，无可逃脱
+敲响巡礼之钟，诚心祈求原谅，或许能让不可安息者，获得真正的宁静</text>
+<text id="830000">樱露残渣</text>
 <text id="1700000">Information Locked</text>
 <text id="1710000">Information Locked</text>
 <text id="1720000">Information Locked</text>
