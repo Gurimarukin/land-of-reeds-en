@@ -3907,7 +3907,7 @@ enhance Attack Power</text>
 <text id="80000004">_Seeker (Bo Staff) - Fierce</text><!-- 仙峰寺虫棍·猛 TODO -->
 <text id="80000005">_Okami Warrior (Katana &amp; Bow) - Fierce</text><!-- 水生的凛·猛 TODO -->
 <text id="80000006">_Armored Samurai - Fierce</text><!-- 铠甲武士·猛 TODO -->
-<text id="80000007">_Seven Ashina Guns - Fierce</text><!-- 苇名七本枪·猛 TODO -->
+<text id="80000007">_Seven Ashina Spears - Fierce</text><!-- 苇名七本枪·猛 TODO -->
 <text id="80000008">_Taro Troop (Bell)- Fierce</text><!-- 小太郎·钟·猛 TODO -->
 <text id="80000009">_Foster Father - Fierce</text><!-- 义父·猛 TODO -->
 <text id="80000010">_Corrupted Monk - Fierce</text><!-- 破戒僧·猛 -->
@@ -3958,10 +3958,10 @@ enhance Attack Power</text>
 <text id="80000213">_Inner Genichiro - Illusion</text><!-- 心中的弦一郎·幻 TODO -->
 <text id="80000214">_Demon of Hatred - Illusion</text><!-- 怨恨之鬼·幻 TODO -->
 <text id="80000218">_Lone Shadow Multitude - Illusion</text><!-- 孤影众·幻 TODO -->
-<text id="80000300">_Elite Rematch</text><!-- 精英再战 TODO -->
-<text id="80000301">_Taro Troop (Which?)</text><!-- 太郎 TODO -->
-<text id="80000302">_Seven Ashina Guns - Kuranosuke Matsumoto</text><!-- 苇名七本枪 松本势守藏佑 TODO -->
-<text id="80000303">_Yoga Beauty Samurai Miku</text><!-- 瑜伽美武士 御 TODO -->
+<text id="80000300">Elite Rematch</text><!-- 精英再战 -->
+<text id="80000301">Taro Troop (Bell)</text><!-- 太郎 -->
+<text id="80000302">Seven Ashina Spears - Kuranosuke Matsumoto</text><!-- 苇名七本枪 松本势守藏佑 -->
+<text id="80000303">_Okami Warrior (Katana)</text><!-- 瑜伽美武士 御 -->
 <text id="80000304">_Seonbongsa Jiden, Dobong</text><!-- 仙峰寺知殿 道峰 TODO -->
 <text id="80000305">_Seonbongsa Sangsang Dogen</text><!-- 仙峰寺僧值 道川 TODO -->
 <text id="80000306">_General Naomori Kawarada</text><!-- 武士大将 河原田直盛 TODO -->
@@ -4000,7 +4000,7 @@ enhance Attack Power</text>
 <text id="80100004">Seeker (Bo Staff) - Fierce</text><!-- 仙峰寺虫棍·猛 TODO -->
 <text id="80100005">Okami Warrior (Katana &amp; Bow) - Fierce</text><!-- 水生的凛·猛 TODO -->
 <text id="80100006">Armored Samurai - Fierce</text><!-- 铠甲武士·猛 TODO -->
-<text id="80100007">Seven Ashina Guns - Fierce</text><!-- 苇名七本枪·猛 TODO -->
+<text id="80100007">Seven Ashina Spears - Fierce</text><!-- 苇名七本枪·猛 TODO -->
 <text id="80100008">Taro Troop (Bell)- Fierce</text><!-- 小太郎·钟·猛 TODO -->
 <text id="80100009">Foster Father - Fierce</text><!-- 义父·猛 TODO -->
 <text id="80100010">Corrupted Monk - Fierce</text><!-- 破戒僧·猛 TODO -->
@@ -4053,8 +4053,8 @@ enhance Attack Power</text>
 <text id="80100218">Lone Shadow Multitude - Illusion</text><!-- 孤影众·幻 TODO -->
 <text id="80100300">Elite Rematch</text><!-- 精英再战 TODO -->
 <text id="80100301">Taro Troop (Which?)</text><!-- 太郎 TODO -->
-<text id="80100302">Seven Ashina Guns - Kuranosuke Matsumoto</text><!-- 苇名七本枪 松本势守藏佑 TODO -->
-<text id="80100303">Yoga Beauty Samurai Miku</text><!-- 瑜伽美武士 御 TODO -->
+<text id="80100302">Seven Ashina Spears - Kuranosuke Matsumoto</text><!-- 苇名七本枪 松本势守藏佑 -->
+<text id="80100303">Okami Warrior (Katana)</text><!-- 瑜伽美武士 御 -->
 <text id="80100304">Seonbongsa Jiden, Dobong</text><!-- 仙峰寺知殿 道峰 TODO -->
 <text id="80100305">Seonbongsa Sangsang Dogen</text><!-- 仙峰寺僧值 道川 TODO -->
 <text id="80100306">General Naomori Kawarada</text><!-- 武士大将 河原田直盛 TODO -->
