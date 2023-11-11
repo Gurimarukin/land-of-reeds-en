@@ -248,11 +248,67 @@ she performed in her master's honor.
 The sakura blossoms will soon fall.
 If you cannot return home, at least allow
 this dance to console you.</text>
-<text id="2491">%null%</text>
-<text id="2492">%null%</text>
-<text id="2493">%null%</text>
-<text id="2494">%null%</text>
-<text id="2495">%null%</text>
+<text id="2491">Part of the samurai fighting style.
+Deflecting a powerful attack grants a few Spirit Emblems.
+
+A samurai's life, like a shinobi, is filled with killing.
+Wether for himself or for others.
+
+Even in the midst of killing, a true samurai still has good in his heart.</text><!-- 此为武士战斗架式的部分技巧
+化解敌人高强度的攻击便可获得少量纸人
+
+武士同忍者一样，生命中不乏杀戮
+
+无论对于自己，还是他人
+真正的武者，即便是在杀戮中，心中也依然存有善念 TODO -->
+<text id="2492">A Combat Art like the flow of a stream.
+
+Can be used right after using a Prosthetic Tool.
+Unleash an unending flow of offense and defense.
+
+There was a time, when people in Ashina worshipped the Water of the Source.
+Their fighting skills were similar to a fast-flowing river.</text><!-- 如溪中湍流般的架势
+
+可在忍具的派生攻击后立马调整姿态
+从而表现出生生不息的攻守兼备之势
+
+曾几何时，苇名众参拜源之水
+固战斗技巧，也有几分形似湍急的河流 TODO -->
+<text id="2493">Obtained from freeing the resentful spirits in the dungeon.
+
+Increases your Spiritual Attack Power and reduces damage from incoming Spiritual attacks.
+It also reduces the accumulation of Terror Attribute.
+
+The dungeon of Ashina Castle is dark and damp.
+Bones are piled up like mountains, and there are countless resentful spirits.
+Magician Evil Karma or Warrior Evil Karma, there is no escape.
+Ring the pilgrim bell, sincerely pray for forgiveness, and let those who cannot rest find true peace.</text><!-- 解放地牢中怨魂所得
+
+可强化自身灵属性攻击，同时降低受到的灵属性伤害
+同时还能减少受到的怖属性积累
+
+苇名城的地牢，阴暗潮湿
+尸骨堆积如山，怨灵不计其数
+此乃施术师的恶业，亦或是人之恶业，无可逃脱
+敲响巡礼之钟，诚心祈求原谅，使徘徊之物，获得安息 TODO -->
+<text id="2494">Obtained by defeating Inner Wolf.
+
+Wolf Dragon Yin's power is strengthened after defeating a powerful enemy.
+Resurrective Power can be used immediately after a resurrection.</text><!-- 击败【心中的狼】获得
+
+击败强敌的狼龙胤之力得到强化
+复活后回生之力可立马使用 TODO -->
+<text id="2495">Obtained by defeating Malenia.
+
+Combat Art acquired after dueling with the previous Dragon Yin Servant: Malenia.
+A complete flying through the swirling clouds, representing the feelings for the Master.
+
+And the sorrow of not being able to return home.</text><!-- 击败【巴】获得
+
+与前一任龙胤仆从：巴对决后习得的技巧
+完整的飞渡漩涡云，代表着对主人的感情
+
+与无法归乡的忧愁 TODO -->
 <text id="2496">%null%</text>
 <text id="2497">%null%</text>
 <text id="2498">%null%</text>
@@ -770,7 +826,24 @@ stance to impart its inhuman benediction.
 Forbidden at the temple, this candy was
 distributed far and wide in exchange for
 donations towards costly undying research.</text>
-<text id="3411">%null%</text>
+<text id="3411">Sugar candy made in Senpou Temple, sustaining Shura's blessing.
+Halves max Vitality and Posture,
+while granting a large Attack Power boost.
+
+Bite the candy and take the Yashariku
+stance to impart its inhuman benediction.
+Forbidden at the temple, this candy was
+distributed far and wide in exchange for
+donations towards costly undying research.</text><!-- 仙峰寺制作的能获得“修罗”庇护作用的糖
+虽会暂时使最大ＨＰ和躯干大幅减少
+但可大幅强化攻击力与对躯干的攻击力
+
+咬碎糖块，并摆出“夜叉戮”的架势
+非人之魂魄的庇护便会降临于身
+
+夜叉戮糖在仙峰寺被禁制
+但不死之身的探求花费巨大
+为了换来捐赠，此糖也被散播到了寺外 TODO -->
 <text id="3412">%null%</text>
 <text id="3413">%null%</text>
 <text id="3414">%null%</text>
@@ -846,6 +919,59 @@ As the gods bless the waters, so too
 will the confetti bless one who basks
 in its touch, allowing attacks to
 connect with apparition-type enemies.</text>
+<text id="3460">Dark Soul
+Unknown object from the Painted World.
+
+Temporarily attaches itself to a weapon.
+Attacks are imbued with ominous black flames.
+
+Injecting it into the body gives it the power of an inhuman soul.</text><!-- 黑暗之魂
+从绘画世界中得到的不详物件
+
+可将其暂时附着到武器上
+使攻击带有不详的黑色火焰
+
+其注入身体可获得非人之魂的加持 TODO -->
+<text id="3461">The incomplete Dark Soul
+
+Although incomplte, it contains terrifying power.
+If you find the other half, you may be able to use its true power.</text><!-- 残缺的黑暗之魂
+
+虽然残缺，但蕴含着可怕的力量
+如果集齐另一半或许可以使用其真正的力量吧 TODO -->
+<text id="3465">Amulet of the Abyss
+
+Allows the bearer to enter the Abyss and reduce its corruption.
+
+A shinobi's actions must be well prepared.
+Especially when crossing into unknown territory.
+If you insist on going your own way, there is only one way to die.</text><!-- 深渊的护符
+
+可让携带者进入深渊并减少深渊的侵蚀
+
+忍者的行动必将做好充足的准备
+尤其是跨入未知的地域时
+如一意孤行，便只有死路一条 TODO -->
+<text id="3470">Isshin's Firegun
+Equip as a Ninjutsu to use as a prosthetic tool.
+
+The Repeating Firegun used by Isshin.
+Excellent effect on humans and beasts.
+
+“Times change, boy”, Isshin said.</text><!-- 一心的火铳
+装入忍义手便可成为义手忍具
+
+一心曾使用的连发火铳
+对人类或是野兽效果都格外优秀
+
+“时代是会变的，小子” 一心如是说道 TODO -->
+<text id="3480">Artifact obtained after inheriting the Power of Malenia.
+Can convert Spirit Emblems into Resurrective Power.
+
+But it cannot cure someone suffering from Dragon Cough.</text><!-- TODO: Malenia? 获得女武神 巴龙胤之力的传承后得到的神器
+可将纸人转换为回生之力
+
+但无法让罹患龙咳的人痊愈 TODO -->
 <text id="3500">A piece of pottery that breaks with a satisfying crack when thrown.
 
 Throw it at an enemy to draw their attention.
@@ -895,6 +1021,15 @@ If an illusion occurs, it is because someone created it.
 To crush the phantoms and return to reality
 one must defeat the creator of the illusion.
 Snap seeds can be of great help in that regard.</text>
+<text id="3540">A receptacle for collecting the Soul Cores of powerful foes.
+
+When needed, you can equip the Soul Core to use the enemy's special moves.
+
+Use this item to switch between Soul Cores.</text><!-- 用来收集强者魂核的容器
+
+必要时可以让魂核附身使用敌人强大的招式
+
+使用该道具来切换魂核凭附 TODO -->
 <text id="3580">A gourd with five-colored rice used by shinobi as landmarks.
 Intended to be spread on the ground in recognizable patterns.
 
@@ -1053,6 +1188,44 @@ and set adrift on the Fountainhead waters.
 
 The blade is inscribed with its true name:
 "Devoted Soul."</text>
+<text id="3802">A short sword with a cherry-colored blade.
+Can transform Spirit Emblems into Resurrective Power.
+Can be used again by resting.
+
+This sword was originally used to protect spirits and return them.
+A red paper figure representing yourself is cut out of the cherry-colored blade.
+Place it next to a young child and pray for him.
+
+The words “Returning Soul” are engraved on the blade.
+That's the real name of the sword.</text><!-- 刀刃为樱色的短刀
+可将纸人转换为回生之力
+通过休息便能再次使用
+
+此短刀原本用于御灵奉还
+将樱色刀刃所削出的代表自身的红色纸人
+放到幼子身边，以为幼子祈福的仪式
+
+刀身上铭刻着“归魂”的字样
+便是此短刀的真名 TODO -->
+<text id="3803">A short sword with a cherry-colored blade.
+Can transform Spirit Emblems into Resurrective Power.
+Can be used again by resting.
+
+This sword was originally used to protect spirits and return them.
+A red paper figure representing yourself is cut out of the cherry-colored blade.
+Place it next to a young child and pray for him.
+
+The words “Returning Soul” are engraved on the blade.
+That's the real name of the sword.</text><!-- 刀刃为樱色的短刀
+可将纸人转换为回生之力
+通过休息便能再次使用
+
+此短刀原本用于御灵奉还
+将樱色刀刃所削出的代表自身的红色纸人
+放到幼子身边，以为幼子祈福的仪式
+
+刀身上铭刻着“归魂”的字样
+便是此短刀的真名 TODO -->
 <text id="3900">A bamboo tube used to see distant objects.
 
 While shinobi already have good vision,
@@ -1555,9 +1728,27 @@ The original must have been broken into several pieces, and this fragment appear
 The original must have been broken into several pieces, and this fragment appears to be the left side of the mask.  </text>
 <text id="5502">A fragment of an old dancer's mask.
 The original must have been broken into several pieces, and this fragment appears to be a decoration at the top of the mask.</text>
-<text id="5503">%null%</text>
-<text id="5504">%null%</text>
-<text id="5505">%null%</text>
+<text id="5503">A fragment of a broken item.
+This seems to be the right side of it.
+
+The item used to be complete.</text><!-- 破碎之物的碎片之一
+这似乎是该物品的右半部分
+
+原本应该是一个完整的物品 TODO -->
+<text id="5504">A fragment of a broken item.
+This seems to be the left side of it.
+
+The item used to be complete.</text><!-- 破碎之物的碎片之一
+这似乎是该物品的左半部分
+
+原本应该是一个完整的物品 TODO -->
+<text id="5505">A fragment of a broken item.
+This seems to be the centerpiece of it.
+
+The item used to be complete.</text><!-- 破碎之物的碎片之一
+这似乎是该物品的中心部分
+
+原本应该是一个完整的物品 TODO -->
 <text id="5506">%null%</text>
 <text id="5507">%null%</text>
 <text id="5508">%null%</text>
@@ -1565,6 +1756,16 @@ The original must have been broken into several pieces, and this fragment appear
 <text id="5510">A dragon's head dancing mask, made whole by piecing the fragments back together.
 Grants the ability to exchange Skill Points for Attack Power in the Sculptor's Idol menu.
 The Okami warrior women would wear this to the Fountainhead Palace.  There, they would dance as an offering for the dragon.  Mysteriously, the ritual left them brimming with vigor.</text>
+<text id="5511">An artifact that holds the soul.
+It was made from broken pieces.
+
+When acquired, it automatically attaches itself to the Shinobi Prosthetic.
+After selecting a soul with the Soul Core, using the Shinobi Prosthetic again, turns Wolf temporarily into a Fighting Spirit.</text><!-- 容纳灵魂的神器
+用打破的碎片拼凑而成
+
+被狼获得后自动附着在忍义手上
+用魂核凭附选择灵魂后
+再次使用忍义手即可让狼暂时变身英灵作战 TODO -->
 <text id="5600">An item that is rarely dropped by a Divine Heir of the Dragon's Heritage.
 Using it will slightly increase Resurrective Power.
 Restore the power of life to those who have been drained of it by offering this drop to the Sculptor's Idol with the Recovery Charm in hand.  In turn, all afflicted with the Dragonrot will be healed.
@@ -1733,7 +1934,12 @@ can advise on how it should be offered.</text>
 The Owl held this bell for a long time.
 Offering it at the Dilapidated Temple may result in seeing a different memory than before.
 There's no way of knowing why this protective bell exists.  Perhaps the Owl kept it for himself, or perhaps he meant to give it to someone...</text>
-<text id="9012">%null%</text>
+<text id="9012">A bell charm abandoned by the last Shura when he gave up his humanity.
+Contains the power of Shura.
+
+Offering it at the Dilapidated Temple may result in seeing a different memory than before.</text><!-- 上一任修罗舍弃人性时丢弃的守护铃，蕴含着修罗的力量
+若将其供奉至破旧寺院的佛像前
+或许能看到不同的旧时记忆吧 TODO -->
 <text id="9013">%null%</text>
 <text id="9014">%null%</text>
 <text id="9015">%null%</text>
@@ -2094,6 +2300,44 @@ I beseech you, make offerings for the Dragon's Blood..."</text>
 <text id="9228">A holy book on enlightenment, inscribed
 "For the Divine Child of Rejuvenation".
 "For an age, I have been blessed by the worm.  To be undying is to walk the eternal path to enlightenment, thus I must become enlightened to understand why I cannot die.  It is said the holy dragon's origins were in the west. So I wonder, how did the worm come to be bestowed upon me?"</text>
+<text id="9240">A mysterious Spirit that can bring the evil of Shura down upon you.
+Temporarily increases your Attack Power and Posture damage.
+But when the effect wears off, Shura's Flame will consume you.
+Costs Spirit Emblems to use.
+
+Those who go on killing will eventually become Shura, possessed by the Fire of Resentment.
+They will be burned by the flames of hell.
+
+The old man in white and the woman in red are still guarding this land coveted by Shura...</text><!-- 能使“修罗”之灵降于自身的谜之亡魂
+可暂时极大幅强化攻击力和躯干攻击力
+但效果消失时自身将受到修罗之炎灼烧
+消耗纸人便可使用
+
+修罗是斩人过多
+导致自身被怨念之火寄宿之人
+
+终将被地狱之炎灼烧
+
+那名白衣老者与红衣女子
+依然在守护着此片被修罗觊觎的土地…… -->
+<text id="9241">A strange letter that silently appeared after defeating the Lord of the Land of Reeds.
+It reads:
+How is this country? It’s a beautiful country, isn’t it? It’s a dreamy country, isn’t it?
+If that's the case, then nothing would give me greater joy.
+
+Welcome to the Land of Reed, guests.
+I hope the scenery here will live on in your memories.
+
+Hold the letter in your hand. If you do, you will definitely get some help.</text><!-- 击败芦苇之国君主后，悄然出现的奇怪信件
+上面如此写道：
+这个国家怎么样？是很美丽的国家吧？
+是一个梦幻一样的国家吧？
+如果是那样的话，那么没有比这更让我感到喜悦的事了.
+
+欢迎来到芦苇之国，客人们.
+但愿这里的风景，能在您的记忆中永存.
+
+将信件握于手中，若如此，一定会获得某些帮助吧 TODO -->
 <text id="9402">The key to a samurai gatehouse located in the Ashina Reservoir, not far from the well the Wolf was kept in.
 Here, Gyoubu the Demon's Broken Horn
 is respectfully guarded by Ashina samurai.
@@ -2543,7 +2787,8 @@ Fountainhead Palace</text>
 <text id="11078">%null%</text>
 <text id="11079">%null%</text>
 <text id="11080">Location:
-Ashina Castle</text>
+Ashina Castle
+Capital of the Land of Reeds, where I met my adoptive father again</text><!-- 芦苇之国的主城，再见义父之地 TODO: met? will meet? -->
 <text id="11081">%null%</text>
 <text id="11082">%null%</text>
 <text id="11083">%null%</text>
@@ -2554,7 +2799,8 @@ Ashina Castle</text>
 <text id="11088">%null%</text>
 <text id="11089">%null%</text>
 <text id="11090">Location:
-Hirata Estate</text>
+Hirata Estate
+Where the Owl can be found</text><!-- 枭之所在 TODO -->
 <text id="11091">%null%</text>
 <text id="11092">%null%</text>
 <text id="11093">%null%</text>
@@ -2576,7 +2822,8 @@ Fountainhead Palace</text>
 <text id="11108">%null%</text>
 <text id="11109">%null%</text>
 <text id="11110">Location:
-Ashina Castle</text>
+Ashina Castle
+In the castle of the Land of Reeds, despair spreads</text><!-- 芦苇之国的天守阁，绝望由此蔓延 TODO -->
 <text id="11111">%null%</text>
 <text id="11112">%null%</text>
 <text id="11113">%null%</text>
@@ -2587,7 +2834,8 @@ Ashina Castle</text>
 <text id="11118">%null%</text>
 <text id="11119">%null%</text>
 <text id="11120">Location:
-Ashina Castle</text>
+Ashina Castle
+The castle of the Land of Reeds is a place where despair breeds</text><!-- 芦苇之国的天守阁，此乃绝望滋生之地 TODO -->
 <text id="11121">%null%</text>
 <text id="11122">%null%</text>
 <text id="11123">%null%</text>
@@ -2598,7 +2846,8 @@ Ashina Castle</text>
 <text id="11128">%null%</text>
 <text id="11129">%null%</text>
 <text id="11130">Location:
-Ashina Reservoir</text>
+Ashina Reservoir
+The fields of the Land of Reeds, where the Sword Saint once fought</text><!-- 芦苇之国的土地，曾是剑圣为之奋斗之处 TODO -->
 <text id="11131">%null%</text>
 <text id="11132">%null%</text>
 <text id="11133">%null%</text>
@@ -2642,7 +2891,8 @@ Hirata Estate</text>
 <text id="11168">%null%</text>
 <text id="11169">%null%</text>
 <text id="11170">Location:
-Ashina Reservoir</text>
+Ashina Reservoir
+The fields of the Land of Reeds, where the Sword Saint once fought</text><!-- 芦苇之国的土地，曾是剑圣为之奋斗之处 TODO -->
 <text id="11171">%null%</text>
 <text id="11172">%null%</text>
 <text id="11173">%null%</text>

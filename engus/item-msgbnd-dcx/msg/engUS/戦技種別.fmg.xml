@@ -49,6 +49,7 @@ This Martial Arts technique allows the use of backstab Deathblows in the middle 
 A spinning attack that can hit several enemies at once.  The sharp cut combined with the force of the spin can strike multiple foes, and deal damage even when guarded.
 
 When surrounded by enemies, this shinobi technique can cut open a path to victory.</text>
+<text id="210100">When equipped with a Soul Core, using this Combat Art will activate the Demon Technique.</text><!-- 当玩家装备魂核后，使用该技能即可立即触发妖怪技 TODO -->
 <text id="211000">Acquires the Combat Art "Shadowrush".
 The secret technique of the Shinobi style,
 devised by the Great Shinobi himself.
@@ -99,7 +100,14 @@ Adds a follow-up overhead sword strike to Ichimonji.  Deals high posture damage 
 The follow-up attack is especially useful for preventing enemy counterattacks.
 Ashina's Ichimonji is perfected with this
 follow-up strike.</text>
-<text id="411000">Acquires the Combat Art "Ashina Cross".
+<text id="411000">Acquires the "Ashina Iai Cross" variant of the Combat Art "Ashina Cross"
+Combination of Wolf's own skills and Ashina style's techniques.
+
+Hold the stance to intercept at will. Can also be used to build up strength.
+Costs Spirit Emblems to use.
+After accumulating strength, "Ichimonji" can be used.
+
+"A shinobi doesn't care about the small details, as long as they achieve their goal."</text><!-- Acquires the Combat Art "Ashina Cross".
 From a sheathed stance, draw the blade at
 high speed.  Costs Spirit Emblems to use.
 Hold the stance to intercept at will.
@@ -107,7 +115,15 @@ A secret technique of the Ashina style,
 devoted to the mastery of a swift kill.
 Draws a cruciform cut in the blink of an
 eye; so fast it could sever the arm of
-Shura, or so boasts Isshin Ashina.</text>
+Shura, or so boasts Isshin Ashina.
+习得流派招式“绝技·苇名十字斩”变种“绝技·苇名居合斩”
+此为狼融合了“苇名流”技艺的绝技
+
+维持架势便可伺机迎敌.亦可积蓄力量
+消耗纸人便可以使用
+积蓄力量后还可使用"一文字"
+
+“忍者不拘泥于小节，达成目的便足以” TODO -->
 <text id="510000">Acquires the Combat Art "Praying Strikes".
 
 Using successive elbow and arm strikes, unleash a flurry of quick attacks that inflict damage while preventing counterattack.
@@ -309,5 +325,48 @@ The perfect skill for Shinobi looking to turn the tables on airborne enemies.  <
 <text id="690300">Information Locked</text>
 <text id="690400">Information Locked</text>
 <text id="699000">Information Locked</text>
+<text id="800000">Part of the samurai fighting style.
+Deflecting a powerful attack grants a few Spirit Emblems.
+
+A samurai's life, like a shinobi, is filled with killing.
+Wether for himself or for others.
+
+Even in the midst of killing, a true samurai still has good in his heart.</text><!-- 此为武士战斗架式的部分技巧
+化解敌人高强度的攻击便可获得少量纸人
+
+武士同忍者一样，生命中不乏杀戮
+
+无论对于自己，还是他人
+真正的武者，即便是在杀戮中，心中也依然存有善念 TODO -->
+<text id="810000">A Combat Art like the flow of a stream.
+
+Can be used right after using a Prosthetic Tool.
+Unleash an unending flow of offense and defense.
+
+There was a time, when people in Ashina worshipped the Water of the Source.
+Their fighting skills were similar to a fast-flowing river.</text><!-- 如溪中湍流般的架势
+
+可在忍具的派生攻击后立马调整姿态
+从而表现出生生不息的攻守兼备之势
+
+曾几何时，苇名众参拜源之水
+固战斗技巧，也有几分形似湍急的河流 TODO -->
+<text id="820000">Obtained from freeing the resentful spirits in the dungeon.
+
+Increases your Spiritual Attack Power and reduces damage from incoming Spiritual attacks.
+It also reduces the accumulation of Terror Attribute.
+
+The dungeon of Ashina Castle is dark and damp.
+Bones are piled up like mountains, and there are countless resentful spirits.
+Magician Evil Karma or Warrior Evil Karma, there is no escape.
+Ring the pilgrim bell, sincerely pray for forgiveness, and let those who cannot rest find true peace.</text><!-- 解放地牢中怨魂所得
+
+可强化自身灵属性攻击，同时降低受到的灵属性伤害
+同时还能减少受到的怖属性积累
+
+苇名城的地牢，阴暗潮湿
+尸骨堆积如山，怨灵不计其数
+此乃施术师的恶业，亦或是人之恶业，无可逃脱
+敲响巡礼之钟，诚心祈求原谅，或许能让不可安息者，获得真正的宁静 TODO -->
 </entries>
 </fmg>

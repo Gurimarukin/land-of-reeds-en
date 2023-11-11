@@ -115,11 +115,11 @@
 <text id="2488">%null%</text>
 <text id="2489">%null%</text>
 <text id="2490">Sakura Dance</text>
-<text id="2491">%null%</text>
-<text id="2492">%null%</text>
-<text id="2493">%null%</text>
-<text id="2494">%null%</text>
-<text id="2495">%null%</text>
+<text id="2491">Warrior Evil Karma</text><!-- %null% 武者之恶业 形代奉还 TODO -->
+<text id="2492">Derived Attack - Turbulence</text><!-- %null% 派生攻击· 湍流 TODO -->
+<text id="2493">Magician Evil Karma</text><!-- %null% 施术师之恶业 祓除常世 TODO -->
+<text id="2494">Come back to life</text><!-- %null% 回生 TODO -->
+<text id="2495">Waterfowl Dance</text><!-- %null% 水鸟乱舞 TODO -->
 <text id="2496">%null%</text>
 <text id="2497">%null%</text>
 <text id="2498">%null%</text>
@@ -319,7 +319,7 @@
 <text id="3408">%null%</text>
 <text id="3409">%null%</text>
 <text id="3410">Yashariku's Sugar</text>
-<text id="3411">%null%</text>
+<text id="3411">Shura's Spirit</text><!-- %null% 修罗之降灵 TODO -->
 <text id="3412">%null%</text>
 <text id="3413">%null%</text>
 <text id="3414">%null%</text>
@@ -359,6 +359,10 @@
 <text id="3448">%null%</text>
 <text id="3449">%null%</text>
 <text id="3450">Divine Confetti</text>
+<text id="3460">Dark Souls</text><!-- 黑暗之魂 TODO -->
+<text id="3461">Incomplete Dark Souls</text><!-- 残缺的黑暗之魂   TODO -->
+<text id="3465">Amulet of the Abyss</text><!-- 深渊护身符 TODO -->
+<text id="3470">Ashina Fire Gun</text><!-- 苇名火铳 TODO -->
 <text id="3500">Ceramic Shard</text>
 <text id="3501">%null%</text>
 <text id="3502">%null%</text>
@@ -390,6 +394,7 @@
 <text id="3528">%null%</text>
 <text id="3529">%null%</text>
 <text id="3530">Snap Seed</text>
+<text id="3540">Soul core possession</text><!-- 魂核凭附 TODO -->
 <text id="3580">Five-color Rice</text>
 <text id="3581">Five-color Rice</text>
 <text id="3600">Mibu Balloon of Wealth</text>
@@ -455,6 +460,8 @@
 <text id="3730">Bell Demon</text>
 <text id="3800">Ceremonial Tanto</text>
 <text id="3801">Ceremonial Tanto</text>
+<text id="3802">Return the imperial spirit</text><!-- 御灵奉还 TODO -->
+<text id="3803">Return the imperial spirit</text><!-- 御灵奉还 TODO -->
 <text id="3900">Nightjar Monocular</text>
 <text id="3980">Homeward Idol</text>
 <text id="3981">%null%</text>
@@ -539,14 +546,15 @@
 <text id="5500">Mask Fragment: Right</text>
 <text id="5501">Mask Fragment: Left</text>
 <text id="5502">Mask Fragment: Dragon</text>
-<text id="5503">%null%</text>
-<text id="5504">%null%</text>
-<text id="5505">%null%</text>
+<text id="5503">Illusion Soul Core Fragment</text><!-- %null% 魂核之灵碎片·幻之魄 TODO -->
+<text id="5504">Fierce Soul Core Fragment</text><!-- %null% 魂核之灵碎片·猛之魄 TODO -->
+<text id="5505">Swift Soul Core Fragment</text><!-- %null% 魂核之灵碎片·     TODO -->
 <text id="5506">%null%</text>
 <text id="5507">%null%</text>
 <text id="5508">%null%</text>
 <text id="5509">%null%</text>
 <text id="5510">Dancing Dragon Mask</text>
+<text id="5511">Soul Core</text><!-- 魂核之灵 TODO -->
 <text id="5600">Dragon's Blood Droplet</text>
 <text id="6000">Scrap Iron</text>
 <text id="6001">%null%</text>
@@ -605,7 +613,7 @@
 <text id="9009">Sakura Droplet</text>
 <text id="9010">Young Lord's Bell Charm</text>
 <text id="9011">Father's Bell Charm</text>
-<text id="9012">%null%</text>
+<text id="9012">Shura's Guardian Bell</text><!-- %null% 修罗的守护铃 TODO -->
 <text id="9013">%null%</text>
 <text id="9014">%null%</text>
 <text id="9015">%null%</text>
@@ -717,6 +725,8 @@
 <text id="9226">Three-story Pagoda Memo</text>
 <text id="9227">Black Scroll</text>
 <text id="9228">Holy Chapter: Infested</text>
+<text id="9240">The Spirit of Shura</text><!-- 修罗之降灵 TODO -->
+<text id="9241">A letter that appeared quietly</text><!-- 悄然出现的信 TODO -->
 <text id="9402">Gatehouse Key</text>
 <text id="9403">Hidden Temple Key</text>
 <text id="9404">Secret Passage Key</text>
@@ -881,7 +891,7 @@
 <text id="9829">%null%</text>
 <text id="9830">Original Memory: Wolf</text>
 <text id="10000">Treasure Carp Scale</text>
-<text id="11000">Gyoubu Oniwa</text>
+<text id="11000">Gyoubu Masataka Oniwa</text><!-- Gyoubu Oniwa 苇名七本枪 鬼庭形部雅孝 TODO -->
 <text id="11001">%null%</text>
 <text id="11002">%null%</text>
 <text id="11003">%null%</text>
@@ -901,7 +911,7 @@
 <text id="11017">%null%</text>
 <text id="11018">%null%</text>
 <text id="11019">%null%</text>
-<text id="11020">Genichiro Ashina</text>
+<text id="11020">Genichiro Ashina, The Blade that Protects the Country</text><!-- 护国之刃 苇名弦一郎 TODO -->
 <text id="11021">%null%</text>
 <text id="11022">%null%</text>
 <text id="11023">%null%</text>
@@ -911,7 +921,7 @@
 <text id="11027">%null%</text>
 <text id="11028">%null%</text>
 <text id="11029">%null%</text>
-<text id="11030">Folding Screen Monkeys</text>
+<text id="11030">Folding Screen Monkeys</text><!-- 观猴、闻猴、言猴、 -->
 <text id="11031">%null%</text>
 <text id="11032">%null%</text>
 <text id="11033">%null%</text>
@@ -961,7 +971,7 @@
 <text id="11077">%null%</text>
 <text id="11078">%null%</text>
 <text id="11079">%null%</text>
-<text id="11080">Great Shinobi - Owl</text>
+<text id="11080">Great Shinobi - Owl</text><!-- 枭忍 薄井右近左... -->
 <text id="11081">%null%</text>
 <text id="11082">%null%</text>
 <text id="11083">%null%</text>
@@ -971,7 +981,7 @@
 <text id="11087">%null%</text>
 <text id="11088">%null%</text>
 <text id="11089">%null%</text>
-<text id="11090">Owl (Father)</text>
+<text id="11090">Owl (Father)</text><!-- 枭 -->
 <text id="11091">%null%</text>
 <text id="11092">%null%</text>
 <text id="11093">%null%</text>
@@ -981,7 +991,7 @@
 <text id="11097">%null%</text>
 <text id="11098">%null%</text>
 <text id="11099">%null%</text>
-<text id="11100">Divine Dragon</text>
+<text id="11100">Elite Rematch</text><!-- 精英再战 TODO -->
 <text id="11101">%null%</text>
 <text id="11102">%null%</text>
 <text id="11103">%null%</text>
@@ -1001,7 +1011,7 @@
 <text id="11117">%null%</text>
 <text id="11118">%null%</text>
 <text id="11119">%null%</text>
-<text id="11120">Isshin Ashina</text>
+<text id="11120">Grandmaster Isshin Ashina</text><!-- Isshin Ashina 宗师 苇名一心 TODO -->
 <text id="11121">%null%</text>
 <text id="11122">%null%</text>
 <text id="11123">%null%</text>
@@ -1031,7 +1041,7 @@
 <text id="11147">%null%</text>
 <text id="11148">%null%</text>
 <text id="11149">%null%</text>
-<text id="11150">Inner Genichiro</text>
+<text id="11150">Genichiro Ashina, The Demon Who Protects the Country</text><!-- Inner Genichiro 护国之魔 苇名弦一郎 TODO -->
 <text id="11151">%null%</text>
 <text id="11152">%null%</text>
 <text id="11153">%null%</text>
@@ -1041,7 +1051,7 @@
 <text id="11157">%null%</text>
 <text id="11158">%null%</text>
 <text id="11159">%null%</text>
-<text id="11160">Inner Father</text>
+<text id="11160">Inner Father</text><!-- 薄井右近左卫门 -->
 <text id="11161">%null%</text>
 <text id="11162">%null%</text>
 <text id="11163">%null%</text>
@@ -1051,7 +1061,7 @@
 <text id="11167">%null%</text>
 <text id="11168">%null%</text>
 <text id="11169">%null%</text>
-<text id="11170">Inner Isshin</text>
+<text id="11170">Lord Isshin Ashina</text><!-- Inner Isshin 君主 苇名一心 TODO -->
 <text id="11171">%null%</text>
 <text id="11172">%null%</text>
 <text id="11173">%null%</text>

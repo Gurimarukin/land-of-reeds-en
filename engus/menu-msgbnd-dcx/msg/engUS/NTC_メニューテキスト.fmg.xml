@@ -308,6 +308,7 @@
 <text id="104170">&lt;?placeName@1700?&gt;</text>
 <text id="104200">&lt;?placeName@2000?&gt;</text>
 <text id="104250">&lt;?placeName@2500?&gt;</text>
+<text id="104251">&lt;?placeName@2510?&gt;</text>
 <text id="105010">to next Skill Point</text>
 <text id="110000">Game Options</text>
 <text id="110001">Camera Options</text>
@@ -509,7 +510,7 @@
 <text id="201105">Ashina Castle Gate</text>
 <text id="201106">Ashina Outskirts</text>
 <text id="201107">Flames of Hatred</text>
-<text id="201108">%null%</text>
+<text id="201108">Main Gate Courtyard</text><!-- %null% 正门阁楼 TODO -->
 <text id="201109">%null%</text>
 <text id="201110">Ashina Castle</text>
 <text id="201111">Upper Tower - Antechamber</text>
@@ -546,6 +547,7 @@
 <text id="202004">Inner Sanctum</text>
 <text id="202005">Sunken Valley Cavern</text>
 <text id="202006">Bell Demon's Temple</text>
+<text id="202007">Scripture Pavilion</text><!-- 藏经阁 TODO: bookstore? -->
 <text id="202500">Fountainhead Palace</text>
 <text id="202501">Vermilion Bridge</text>
 <text id="202502">Flower Viewing Stage</text>
@@ -555,6 +557,13 @@
 <text id="202506">Mibu Manor</text>
 <text id="202507">Feeding Grounds</text>
 <text id="202508">Near Pot Noble</text>
+<text id="202510">World Entrance</text><!-- 世界入口 TODO -->
+<text id="202511">Vermilion Bridge</text><!-- 老旧朱桥 TODO -->
+<text id="202512">Flower Viewing Stage</text><!-- 赏花舞台 TODO -->
+<text id="202513">Great Sakura</text><!-- 巨大樱树 TODO -->
+<text id="202514">Dilapidated Temple</text><!-- 破败皇宫 TODO -->
+<text id="202515">Corrupted Sanctuary</text><!-- 被黑暗污染的神域 TODO -->
+<text id="202516">Abandoned Dungeon</text><!-- 废弃宅邸 TODO -->
 <text id="203000">Place of Reflection</text>
 <text id="211000">Travel</text>
 <text id="211100">Important Places</text>
@@ -567,6 +576,7 @@
 <text id="211107">&lt;?placeName@1510?&gt;</text>
 <text id="211108">&lt;?placeName@2500?&gt;</text>
 <text id="211109">&lt;?placeName@1000?&gt;</text>
+<text id="211110">&lt;?placeName@2510?&gt;</text>
 <text id="220000">Reflection of Strength</text>
 <text id="220001">Gauntlet of Strength</text>
 <text id="220002">Gauntlet of Strength - Divine Heir</text>
@@ -815,19 +825,20 @@
 <text id="320003">Resume Recording</text>
 <text id="320004">Edit Message</text>
 <text id="401000">PRESS ANY BUTTON</text>
-<text id="401001">©2019,2020 FromSoftware, Inc. All rights reserved.  ACTIVISION is a trademark of Activision Publishing, Inc.</text>
+<text id="401001">This mod is completely free - Main creators: MōYúDeXīnyuàn-SAMA, LastGūyǐngZhòngZhǔ</text><!-- ©2019,2020 FromSoftware, Inc. All rights reserved.  ACTIVISION is a trademark of Activision Publishing, Inc.
+本mod完全免费——主要创作者：摸鱼的心愿SAMA，Last孤影众丶 TODO -->
 <text id="401100">&lt;?kgicon@2203?&gt;</text>
-<text id="401301">CONTINUE</text>
-<text id="401302">LOAD GAME</text>
-<text id="401303">NEW GAME</text>
-<text id="401304">SYSTEM</text>
-<text id="401305">INFORMATION</text>
-<text id="401306">LOG IN</text>
+<text id="401301">CONTINUE</text><!-- 继续游戏 -->
+<text id="401302">LOAD GAME</text><!-- 读取存档 -->
+<text id="401303">NEW GAME</text><!-- 新的游戏 -->
+<text id="401304">SYSTEM</text><!-- 系统设置 -->
+<text id="401305">INFORMATION</text><!-- 信息 -->
+<text id="401306">LOG IN</text><!-- 登录 -->
 <text id="401307">SWITCH PROFILE</text>
 <text id="401308">%null%</text>
-<text id="401309">QUIT GAME</text>
-<text id="401310">ONLINE</text>
-<text id="401311">OFFLINE</text>
+<text id="401309">QUIT GAME</text><!-- 退出游戏 -->
+<text id="401310">ONLINE</text><!-- 联网模式 -->
+<text id="401311">OFFLINE</text><!-- 离线模式 -->
 <text id="401312">%null%</text>
 <text id="401313">%null%</text>
 <text id="401314">%null%</text>
@@ -837,9 +848,9 @@
 <text id="401318">%null%</text>
 <text id="401319">%null%</text>
 <text id="401320">App Ver.</text>
-<text id="401350">SETTINGS</text>
-<text id="401351">LANGUAGE</text>
-<text id="401400">INFORMATION</text>
+<text id="401350">SETTINGS</text><!-- 游戏设置 -->
+<text id="401351">LANGUAGE</text><!-- 语言设置 -->
+<text id="401400">INFORMATION</text><!-- 信息 -->
 <text id="401401">This title's default spoken language is Japanese.
 </text>
 <text id="401402">There is nothing new in INFORMATION</text>
@@ -856,8 +867,8 @@ AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 16 BELOW. </text>
 <text id="401509">%null%</text>
 <text id="401510">Accept</text>
 <text id="401511">Decline</text>
-<text id="406000">LOAD GAME</text>
-<text id="406001">NEW GAME</text>
+<text id="406000">LOAD GAME</text><!-- 读取存档 -->
+<text id="406001">NEW GAME</text><!-- 新的游戏 -->
 <text id="406002">%null%</text>
 <text id="406003">%null%</text>
 <text id="406004">%null%</text>
