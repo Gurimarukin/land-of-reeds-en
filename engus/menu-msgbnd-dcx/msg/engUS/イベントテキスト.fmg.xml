@@ -3977,10 +3977,10 @@ enhance Attack Power</text>
 <text id="80000400">_Attach Soul Core</text><!-- 魂核凭附 TODO -->
 <text id="80000410">_Soul Core preparation...</text><!-- 魂核准备中...... TODO -->
 <text id="80000411">_Soul Core is ready!</text><!-- 魂核准备完毕！ TODO -->
-<text id="80000500">_Get back Kuro's Charm</text><!-- 拿回九郎的护身符 TODO -->
-<text id="80000501">_Give Kuro's Charm</text><!-- 交付九郎的护身符 TODO -->
-<text id="80000502">_Get Bell Demon</text><!-- 获得钟鬼 TODO -->
-<text id="80000503">_Additional features</text><!-- 额外功能 TODO -->
+<text id="80000500">Get back Kuro's Charm</text><!-- 拿回九郎的护身符 TODO -->
+<text id="80000501">Give Kuro's Charm</text><!-- 交付九郎的护身符 TODO -->
+<text id="80000502">Get Bell Demon</text><!-- 获得钟鬼 TODO -->
+<text id="80000503">Additional features</text><!-- 额外功能 -->
 <text id="80001000">_Touch the Mystic Canvas</text><!-- 触碰神秘画布 TODO -->
 <text id="80001001">_Feed it pills</text><!-- 喂它服下药丸 TODO -->
 <text id="80001002">Feed it the God Eater</text><!-- 喂它服下噬神 TODO -->
@@ -4071,7 +4071,7 @@ enhance Attack Power</text>
 <text id="80100500">Get back Kuro's Charm</text><!-- 拿回九郎的护身符 TODO -->
 <text id="80100501">Give Kuro's Charm</text><!-- 交付九郎的护身符 TODO -->
 <text id="80100502">Get Bell Demon</text><!-- 获得钟鬼 TODO -->
-<text id="80100503">Additional features</text><!-- 额外功能 TODO -->
+<text id="80100503">Additional features</text><!-- 额外功能 -->
 <text id="80101000">Touch the Mystic Canvas</text><!-- 触碰神秘画布 TODO -->
 <text id="80101001">Feed it pills</text><!-- 喂它服下药丸 TODO -->
 <text id="80101002">Feed it Rice</text><!-- 喂它服下米 TODO -->
