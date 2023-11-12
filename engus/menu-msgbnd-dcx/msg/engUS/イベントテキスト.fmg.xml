@@ -4079,7 +4079,7 @@ enhance Attack Power</text>
 <text id="80101008">Help Schiff</text><!-- 帮助希夫 TODO -->
 <text id="80200000">Important props have been obtained</text><!-- 已获得重要道具 TODO -->
 <text id="80200001">New skill acquired!</text><!-- 获得了新的技能！ TODO -->
-<text id="80200002">The Sould Core of a rare and powerful foe has been stored in a container!</text><!-- 稀世强者魂核已被容器收纳！ TODO -->
+<text id="80200002">Soul Core of an extraordinary foe has been stored in a container!</text><!-- 稀世强者魂核已被容器收纳！TODO: popup après avoir tué corrupted monk -->
 <text id="80200003">Prosthetic Tool new skill acquired!</text><!-- 忍义手获得了新的力量 TODO -->
 <text id="80200004">Touch the Witch</text><!-- 触碰巫女: TODO: of or the? -->
 <text id="80200005">Touch the Divine Child</text><!-- 触碰变若之子 TODO -->
