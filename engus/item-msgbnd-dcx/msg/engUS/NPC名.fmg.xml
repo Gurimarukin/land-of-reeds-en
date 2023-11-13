@@ -8,7 +8,7 @@
 <text id="900000">Protagonist</text>
 <text id="901260">Folding Screen Monkeys</text><!-- 观猴、闻猴、言猴、 -->
 <text id="905000">Corrupted Monk</text>
-<text id="905060">Great Shinobi - Owl</text><!-- 枭忍 薄井右近左... -->
+<text id="905060">Great Shinobi (Owl)</text><!-- 枭忍 薄井右近左... -->
 <text id="905061">Owl (Father)</text><!-- 枭 -->
 <text id="905062">%null%</text>
 <text id="905063">Inner Father</text><!-- 薄井右近左卫门 -->
@@ -197,11 +197,11 @@
 <text id="995004">%null%</text>
 <text id="995005">Corrupted Monk</text>
 <text id="995020">Chained Ogre</text>
-<text id="995021">Okami Warrior (Katana)</text><!-- 瑜伽美武士 御 -->
-<text id="995022">Seeker (Fists)</text><!-- 仙峰寺僧值 道川 -->
+<text id="995021">Okami Warrior</text><!-- 瑜伽美武士 御 -->
+<text id="995022">Seeker</text><!-- 仙峰寺僧值 道川 -->
 <text id="995023">Spear Adept</text><!-- 仙峰寺知殿 道峰 -->
-<text id="995024">Taro Troop</text><!-- 太郎 -->
-<text id="995025">Captain Akabi Kondo</text><!-- 赤备队长 近藤 TODO -->
+<text id="995024">Taro Trooper</text><!-- 太郎 -->
+<text id="995025">Red Guard Champion</text><!-- 赤备队长 近藤 -->
 <text id="995026">“The Mountain Man”</text><!-- “山人” TODO: Yhorm the Giant? -->
 </entries>
 </fmg>
