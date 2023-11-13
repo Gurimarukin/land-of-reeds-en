@@ -11,7 +11,7 @@
 <text id="5300">Ichimonji</text>
 <text id="5301">Ichimonji: Double</text>
 <text id="5400">Dragon Flash</text>
-<text id="5500">Ashina Cross</text>
+<text id="5500">绝技·苇名居合斩</text>
 <text id="5600">Floating Passage</text>
 <text id="5601">Spiral Cloud Passage</text>
 <text id="5700">Mortal Draw</text>
@@ -31,12 +31,14 @@
 <text id="7500">Praying Strikes - Exorcism</text>
 <text id="7600">Shadowfall</text>
 <text id="7700">Sakura Dance</text>
+<text id="7800">秘传·幻樱乱舞</text>
 <text id="70000">Loaded Shuriken</text>
 <text id="70100">Spinning Shuriken</text>
 <text id="70200">Gouging Top</text>
 <text id="70300">Phantom Kunai</text>
 <text id="70400">Sen Throw</text>
 <text id="70500">Lazulite Shuriken</text>
+<text id="70600">连发火铳</text>
 <text id="71000">Shinobi Firecracker</text>
 <text id="71100">Spring-load Firecracker</text>
 <text id="71200">Long Spark</text>
@@ -71,6 +73,7 @@
 <text id="79000">Finger Whistle</text>
 <text id="79100">Mountain Echo</text>
 <text id="79200">Malcontent</text>
+<text id="79300">魂核之灵</text>
 <text id="110000">-</text>
 <text id="200000">Grappling Hook Attack</text>
 <text id="200100">Mid-air Deflection</text>
@@ -89,7 +92,7 @@
 <text id="310100">Nightjar Slash Reversal</text>
 <text id="410000">Ichimonji</text>
 <text id="410100">Ichimonji: Double</text>
-<text id="411000">Ashina Cross</text>
+<text id="411000">绝技·苇名居合斩</text>
 <text id="510000">Praying Strikes</text>
 <text id="510100">Praying Strikes - Exorcism</text>
 <text id="511000">Senpou Leaping Kicks</text>
@@ -125,6 +128,7 @@
 <text id="672000">Floating Passage</text>
 <text id="673000">One Mind</text>
 <text id="674000">Sakura Dance</text>
+<text id="675000">秘传·幻樱乱舞</text>
 <text id="680000">Mibu Breathing Technique</text>
 <text id="681000">Anti-air Deathblow</text>
 <text id="690000">Unknown Combat Art</text>
@@ -138,6 +142,7 @@
 <text id="703000">Phantom Kunai</text>
 <text id="704000">Sen Throw</text>
 <text id="705000">Lazulite Shuriken</text>
+<text id="706000">连发火铳</text>
 <text id="711000">Spring-load Firecracker</text>
 <text id="712000">Long Spark</text>
 <text id="713000">Purple Fume Spark</text>
@@ -163,6 +168,11 @@
 <text id="784000">Leaping Flame</text>
 <text id="791000">Mountain Echo</text>
 <text id="792000">Malcontent</text>
+<text id="793000">魂核之灵</text>
+<text id="800000">武者之恶业 形代奉还</text>
+<text id="810000">派生攻击· 湍流</text>
+<text id="820000">施术师之恶业 祓除常世</text>
+<text id="830000">樱露残渣</text>
 <text id="1700000">Unknown Shuriken</text>
 <text id="1710000">Unknown Firecracker</text>
 <text id="1720000">Unknown Flame Barrel</text>

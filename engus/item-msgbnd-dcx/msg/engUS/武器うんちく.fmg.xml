@@ -49,8 +49,9 @@ Enter the sheathed battle stance.
 Release &lt;?kgiconKc@18?&gt;: Cancel Sheathed Stance
 Leave sheathed battle stance.
 
-Release &lt;?kgiconKc@16?&gt;: Ashina Cross
-Draw your sword from its sheath and slice in a cross pattern at high speed.  Costs Spirit Emblems.</text>
+&lt;?kgiconKc@16?&gt;解除:拔刀居合斩
+拔刀并快速劈出居合斩
+消耗纸人便可以使用</text>
 <text id="5600">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: Floating Passage
 Deliver five dancing, consecutive attacks.</text>
 <text id="5601">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: Spiral Cloud Passage
@@ -168,6 +169,10 @@ Spin to build momentum into a sequence of three leaping dance-like slashes.  Eva
 
 Mid-air prosthetic attacks are possible after the attack has been performed.
 Costs Spirit Emblems to use.</text>
+<text id="7800">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:幻樱乱舞
+翩翩起舞般使出十连击
+并向四周掀起真空波
+消耗纸人便可以使用</text>
 <text id="70000">&lt;?kgiconKc@17?&gt;:Shuriken Throw
 Attack by throwing a shuriken.</text>
 <text id="70100">&lt;?kgiconKc@17?&gt;:Shuriken Throw
@@ -208,6 +213,10 @@ Its piercing edge heavily damages Vitality, and damages Vitality and Posture eve
 
 Hold &lt;?kgiconKc@17?&gt;: Lazulite Spinning Shuriken
 Bring the shuriken to a powerful spin before throwing.  Hits enemy multiple times.</text>
+<text id="70600">&lt;?kgiconKc@17?&gt;:开火
+正常状态下打出一发弹丸
+
+下蹲使用可发射四发弹丸</text>
 <text id="71000">&lt;?kgiconKc@17?&gt;: Shinobi Firecracker
 Scatter a flash of gunpowder in front of you.
 Easily frightens beasts.</text>
@@ -452,6 +461,7 @@ End a sprint by sliding, which puts you in a crouched position.</text>
 Jump over and behind the enemy.</text>
 <text id="210000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Whirlwind Slash
 A Combat Art executed by spinning the entire body while attacking.</text>
+<text id="210100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:使用该技能即可立即触发妖怪技</text>
 <text id="211000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Shadowrush
 Perform a long-range rushing thrust attack.
 Upon connecting with an enemy Wolf will jump off of them, leaping in the air.
@@ -531,8 +541,9 @@ Enter the sheathed battle stance.
 Release &lt;?kgiconKc@18?&gt;: Cancel Sheathed Stance
 Leave sheathed battle stance.
 
-Release &lt;?kgiconKc@16?&gt;: Ashina Cross
-Draw your sword from its sheath and slice in a cross pattern at high speed.  Costs Spirit Emblems.</text>
+&lt;?kgiconKc@16?&gt;解除:拔刀居合斩
+拔刀并快速劈出居合斩
+消耗纸人便可以使用</text>
 <text id="510000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: Praying Strikes
 Repeated palm strikes following elbow strikes.</text>
 <text id="510100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: Praying Strikes
@@ -620,6 +631,10 @@ Spin to build momentum into a sequence of three leaping dance-like slashes.  Eva
 
 Mid-air prosthetic attacks are possible after the attack has been performed.
 Costs Spirit Emblems to use.</text>
+<text id="675000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:幻樱乱舞
+翩翩起舞般使出十连击
+并向四周掀起真空波
+消耗纸人便可以使用</text>
 <text id="680000">&lt;?null?&gt;</text>
 <text id="681000">&lt;?kgiconKc@16?&gt; near an enemy high up in the air: Anti-air Deathblow
 Perform a Deathblow on an airborne enemy.</text>
@@ -667,6 +682,10 @@ Its piercing edge heavily damages Vitality, and damages Vitality and Posture eve
 
 Hold &lt;?kgiconKc@17?&gt;: Lazulite Spinning Shuriken
 Bring the shuriken to a powerful spin before throwing.  Hits enemy multiple times.</text>
+<text id="706000">&lt;?kgiconKc@17?&gt;:开火
+正常状态下打出一发弹丸
+
+下蹲使用可发射四发弹丸</text>
 <text id="711000">&lt;?kgiconKc@17?&gt;: Shinobi Firecracker
 Scatter a flash of gunpowder in front of you.
 Easily frightens beasts.
@@ -857,6 +876,9 @@ Hold &lt;?kgiconKc@17?&gt;: Mountain Echo
 Perform a delayed whistle, where no sound occurs until several seconds after the whistle was blown.
 
 Only the targeted enemy can hear the finger whistle when locked on.  If no target is locked, all surrounding enemies will hear the sound.</text>
+<text id="793000">&lt;?kgiconKc@17?&gt;:魂核之灵
+
+在锁定目标后，使用义手即可召唤凭附的荒魂参与战斗</text>
 <text id="1700000">? ? ?</text>
 <text id="1710000">? ? ?</text>
 <text id="1720000">? ? ?</text>
